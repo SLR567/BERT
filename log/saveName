@@ -1,0 +1,1766 @@
+| epoch  0 | step   50 |  ms/b 846.81 | train loss 0.89362216 | NA acc: 0.00 | not NA acc: 0.01  | tot acc: 0.00 
+| epoch  1 | step  100 |  ms/b 690.55 | train loss 0.79477565 | NA acc: 0.00 | not NA acc: 0.01  | tot acc: 0.00 
+| epoch  1 | step  150 |  ms/b 699.97 | train loss 0.48088647 | NA acc: 0.07 | not NA acc: 0.01  | tot acc: 0.05 
+| epoch  2 | step  200 |  ms/b 704.33 | train loss 0.07282850 | NA acc: 0.96 | not NA acc: 0.01  | tot acc: 0.61 
+| epoch  2 | step  250 |  ms/b 704.85 | train loss 0.04184997 | NA acc: 0.91 | not NA acc: 0.05  | tot acc: 0.60 
+| epoch  3 | step  300 |  ms/b 703.67 | train loss 0.03224764 | NA acc: 0.96 | not NA acc: 0.18  | tot acc: 0.71 
+| epoch  3 | step  350 |  ms/b 707.43 | train loss 0.02905898 | NA acc: 0.96 | not NA acc: 0.21  | tot acc: 0.70 
+| epoch  4 | step  400 |  ms/b 707.25 | train loss 0.02387589 | NA acc: 0.96 | not NA acc: 0.31  | tot acc: 0.75 
+| epoch  4 | step  450 |  ms/b 694.27 | train loss 0.02595685 | NA acc: 0.94 | not NA acc: 0.38  | tot acc: 0.72 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.7544 | F1 0.3209 | AUC 0.2298
+Ignore ma_f1 0.3012 | input_theta 0.7544 test_result F1 0.2992 | AUC 0.2056
+| epoch   4 | time: 89.61s
+-----------------------------------------------------------------------------------------
+| epoch  5 | step  500 |  ms/b 2497.00 | train loss 0.01912328 | NA acc: 0.95 | not NA acc: 0.41  | tot acc: 0.76 
+| epoch  5 | step  550 |  ms/b 698.94 | train loss 0.01683867 | NA acc: 0.94 | not NA acc: 0.49  | tot acc: 0.79 
+| epoch  6 | step  600 |  ms/b 696.62 | train loss 0.01581436 | NA acc: 0.95 | not NA acc: 0.55  | tot acc: 0.80 
+| epoch  6 | step  650 |  ms/b 703.58 | train loss 0.01465206 | NA acc: 0.93 | not NA acc: 0.57  | tot acc: 0.81 
+| epoch  7 | step  700 |  ms/b 709.81 | train loss 0.01281298 | NA acc: 0.94 | not NA acc: 0.65  | tot acc: 0.83 
+| epoch  7 | step  750 |  ms/b 701.00 | train loss 0.01289728 | NA acc: 0.93 | not NA acc: 0.66  | tot acc: 0.83 
+| epoch  8 | step  800 |  ms/b 700.57 | train loss 0.01221586 | NA acc: 0.91 | not NA acc: 0.70  | tot acc: 0.83 
+| epoch  8 | step  850 |  ms/b 707.88 | train loss 0.01002939 | NA acc: 0.93 | not NA acc: 0.69  | tot acc: 0.85 
+| epoch  9 | step  900 |  ms/b 697.58 | train loss 0.01069948 | NA acc: 0.94 | not NA acc: 0.72  | tot acc: 0.86 
+| epoch  9 | step  950 |  ms/b 699.34 | train loss 0.00942510 | NA acc: 0.93 | not NA acc: 0.74  | tot acc: 0.86 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9315 | F1 0.4602 | AUC 0.4105
+Ignore ma_f1 0.4380 | input_theta 0.9315 test_result F1 0.4379 | AUC 0.3807
+| epoch   9 | time: 89.38s
+-----------------------------------------------------------------------------------------
+| epoch 10 | step 1000 |  ms/b 2541.58 | train loss 0.00821532 | NA acc: 0.94 | not NA acc: 0.77  | tot acc: 0.88 
+| epoch 10 | step 1050 |  ms/b 704.36 | train loss 0.00738112 | NA acc: 0.94 | not NA acc: 0.77  | tot acc: 0.88 
+| epoch 11 | step 1100 |  ms/b 699.41 | train loss 0.00687436 | NA acc: 0.95 | not NA acc: 0.78  | tot acc: 0.89 
+| epoch 11 | step 1150 |  ms/b 705.80 | train loss 0.00696371 | NA acc: 0.94 | not NA acc: 0.79  | tot acc: 0.89 
+| epoch 12 | step 1200 |  ms/b 697.19 | train loss 0.00655861 | NA acc: 0.94 | not NA acc: 0.83  | tot acc: 0.90 
+| epoch 13 | step 1250 |  ms/b 701.05 | train loss 0.00731642 | NA acc: 0.93 | not NA acc: 0.90  | tot acc: 0.92 
+| epoch 13 | step 1300 |  ms/b 709.66 | train loss 0.00573034 | NA acc: 0.95 | not NA acc: 0.83  | tot acc: 0.91 
+| epoch 14 | step 1350 |  ms/b 706.40 | train loss 0.00557896 | NA acc: 0.94 | not NA acc: 0.85  | tot acc: 0.91 
+| epoch 14 | step 1400 |  ms/b 707.06 | train loss 0.00529017 | NA acc: 0.95 | not NA acc: 0.86  | tot acc: 0.92 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9393 | F1 0.4988 | AUC 0.4758
+Ignore ma_f1 0.4794 | input_theta 0.9393 test_result F1 0.4763 | AUC 0.4486
+| epoch  14 | time: 89.10s
+-----------------------------------------------------------------------------------------
+| epoch 15 | step 1450 |  ms/b 2536.99 | train loss 0.00497881 | NA acc: 0.96 | not NA acc: 0.85  | tot acc: 0.93 
+| epoch 15 | step 1500 |  ms/b 691.49 | train loss 0.00477007 | NA acc: 0.95 | not NA acc: 0.87  | tot acc: 0.92 
+| epoch 16 | step 1550 |  ms/b 698.33 | train loss 0.00459927 | NA acc: 0.96 | not NA acc: 0.87  | tot acc: 0.93 
+| epoch 16 | step 1600 |  ms/b 709.43 | train loss 0.00470166 | NA acc: 0.95 | not NA acc: 0.88  | tot acc: 0.93 
+| epoch 17 | step 1650 |  ms/b 696.48 | train loss 0.00441270 | NA acc: 0.96 | not NA acc: 0.89  | tot acc: 0.93 
+| epoch 17 | step 1700 |  ms/b 702.21 | train loss 0.00399860 | NA acc: 0.96 | not NA acc: 0.89  | tot acc: 0.93 
+| epoch 18 | step 1750 |  ms/b 705.83 | train loss 0.00388690 | NA acc: 0.96 | not NA acc: 0.89  | tot acc: 0.94 
+| epoch 18 | step 1800 |  ms/b 697.50 | train loss 0.00414634 | NA acc: 0.96 | not NA acc: 0.90  | tot acc: 0.94 
+| epoch 19 | step 1850 |  ms/b 703.26 | train loss 0.00375124 | NA acc: 0.96 | not NA acc: 0.91  | tot acc: 0.94 
+| epoch 19 | step 1900 |  ms/b 705.20 | train loss 0.00344235 | NA acc: 0.96 | not NA acc: 0.91  | tot acc: 0.94 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9746 | F1 0.5050 | AUC 0.4852
+Ignore ma_f1 0.4804 | input_theta 0.9746 test_result F1 0.4800 | AUC 0.4531
+| epoch  19 | time: 90.29s
+-----------------------------------------------------------------------------------------
+| epoch 20 | step 1950 |  ms/b 2552.62 | train loss 0.00373366 | NA acc: 0.96 | not NA acc: 0.91  | tot acc: 0.94 
+| epoch 20 | step 2000 |  ms/b 699.49 | train loss 0.00321664 | NA acc: 0.96 | not NA acc: 0.91  | tot acc: 0.95 
+| epoch 21 | step 2050 |  ms/b 695.72 | train loss 0.00305501 | NA acc: 0.96 | not NA acc: 0.92  | tot acc: 0.95 
+| epoch 21 | step 2100 |  ms/b 707.42 | train loss 0.00317846 | NA acc: 0.96 | not NA acc: 0.92  | tot acc: 0.95 
+| epoch 22 | step 2150 |  ms/b 699.05 | train loss 0.00282196 | NA acc: 0.96 | not NA acc: 0.93  | tot acc: 0.95 
+| epoch 22 | step 2200 |  ms/b 704.87 | train loss 0.00268512 | NA acc: 0.97 | not NA acc: 0.93  | tot acc: 0.95 
+| epoch 23 | step 2250 |  ms/b 701.01 | train loss 0.00249262 | NA acc: 0.97 | not NA acc: 0.93  | tot acc: 0.96 
+| epoch 23 | step 2300 |  ms/b 708.99 | train loss 0.00250550 | NA acc: 0.97 | not NA acc: 0.93  | tot acc: 0.96 
+| epoch 24 | step 2350 |  ms/b 701.02 | train loss 0.00227428 | NA acc: 0.97 | not NA acc: 0.94  | tot acc: 0.96 
+| epoch 24 | step 2400 |  ms/b 696.93 | train loss 0.00249064 | NA acc: 0.97 | not NA acc: 0.94  | tot acc: 0.96 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9601 | F1 0.5142 | AUC 0.4990
+Ignore ma_f1 0.4902 | input_theta 0.9601 test_result F1 0.4877 | AUC 0.4607
+| epoch  24 | time: 90.39s
+-----------------------------------------------------------------------------------------
+| epoch 25 | step 2450 |  ms/b 2574.92 | train loss 0.00229844 | NA acc: 0.97 | not NA acc: 0.94  | tot acc: 0.96 
+| epoch 26 | step 2500 |  ms/b 697.27 | train loss 0.00218978 | NA acc: 0.98 | not NA acc: 0.94  | tot acc: 0.97 
+| epoch 26 | step 2550 |  ms/b 704.21 | train loss 0.00225408 | NA acc: 0.97 | not NA acc: 0.94  | tot acc: 0.96 
+| epoch 27 | step 2600 |  ms/b 700.60 | train loss 0.00210038 | NA acc: 0.96 | not NA acc: 0.95  | tot acc: 0.96 
+| epoch 27 | step 2650 |  ms/b 698.29 | train loss 0.00216030 | NA acc: 0.97 | not NA acc: 0.94  | tot acc: 0.96 
+| epoch 28 | step 2700 |  ms/b 701.21 | train loss 0.00184751 | NA acc: 0.98 | not NA acc: 0.95  | tot acc: 0.97 
+| epoch 28 | step 2750 |  ms/b 703.65 | train loss 0.00193743 | NA acc: 0.97 | not NA acc: 0.95  | tot acc: 0.96 
+| epoch 29 | step 2800 |  ms/b 702.25 | train loss 0.00182427 | NA acc: 0.97 | not NA acc: 0.95  | tot acc: 0.97 
+| epoch 29 | step 2850 |  ms/b 707.57 | train loss 0.00173170 | NA acc: 0.98 | not NA acc: 0.95  | tot acc: 0.97 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9409 | F1 0.5298 | AUC 0.5144
+Ignore ma_f1 0.5048 | input_theta 0.9409 test_result F1 0.5042 | AUC 0.4764
+| epoch  29 | time: 91.10s
+-----------------------------------------------------------------------------------------
+| epoch 30 | step 2900 |  ms/b 2576.05 | train loss 0.00189679 | NA acc: 0.98 | not NA acc: 0.95  | tot acc: 0.97 
+| epoch 30 | step 2950 |  ms/b 695.51 | train loss 0.00170382 | NA acc: 0.98 | not NA acc: 0.95  | tot acc: 0.97 
+| epoch 31 | step 3000 |  ms/b 695.99 | train loss 0.00164106 | NA acc: 0.98 | not NA acc: 0.95  | tot acc: 0.97 
+| epoch 31 | step 3050 |  ms/b 706.01 | train loss 0.00169424 | NA acc: 0.98 | not NA acc: 0.95  | tot acc: 0.97 
+| epoch 32 | step 3100 |  ms/b 699.10 | train loss 0.00174346 | NA acc: 0.97 | not NA acc: 0.95  | tot acc: 0.97 
+| epoch 32 | step 3150 |  ms/b 703.65 | train loss 0.00160300 | NA acc: 0.98 | not NA acc: 0.95  | tot acc: 0.97 
+| epoch 33 | step 3200 |  ms/b 692.75 | train loss 0.00155304 | NA acc: 0.98 | not NA acc: 0.95  | tot acc: 0.97 
+| epoch 33 | step 3250 |  ms/b 699.53 | train loss 0.00147117 | NA acc: 0.98 | not NA acc: 0.95  | tot acc: 0.97 
+| epoch 34 | step 3300 |  ms/b 702.70 | train loss 0.00139517 | NA acc: 0.98 | not NA acc: 0.95  | tot acc: 0.97 
+| epoch 34 | step 3350 |  ms/b 705.02 | train loss 0.00142360 | NA acc: 0.98 | not NA acc: 0.95  | tot acc: 0.97 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9640 | F1 0.5410 | AUC 0.5327
+Ignore ma_f1 0.5185 | input_theta 0.9640 test_result F1 0.5184 | AUC 0.5019
+| epoch  34 | time: 86.91s
+-----------------------------------------------------------------------------------------
+| epoch 35 | step 3400 |  ms/b 2507.42 | train loss 0.00124535 | NA acc: 0.98 | not NA acc: 0.96  | tot acc: 0.97 
+| epoch 35 | step 3450 |  ms/b 696.69 | train loss 0.00125048 | NA acc: 0.98 | not NA acc: 0.96  | tot acc: 0.97 
+| epoch 36 | step 3500 |  ms/b 697.20 | train loss 0.00130019 | NA acc: 0.98 | not NA acc: 0.96  | tot acc: 0.97 
+| epoch 36 | step 3550 |  ms/b 708.96 | train loss 0.00151995 | NA acc: 0.98 | not NA acc: 0.95  | tot acc: 0.97 
+| epoch 37 | step 3600 |  ms/b 697.20 | train loss 0.00135467 | NA acc: 0.98 | not NA acc: 0.95  | tot acc: 0.97 
+| epoch 38 | step 3650 |  ms/b 703.91 | train loss 0.00130833 | NA acc: 0.98 | not NA acc: 0.93  | tot acc: 0.96 
+| epoch 38 | step 3700 |  ms/b 701.76 | train loss 0.00128334 | NA acc: 0.98 | not NA acc: 0.95  | tot acc: 0.97 
+| epoch 39 | step 3750 |  ms/b 698.32 | train loss 0.00130754 | NA acc: 0.99 | not NA acc: 0.95  | tot acc: 0.97 
+| epoch 39 | step 3800 |  ms/b 703.00 | train loss 0.00120869 | NA acc: 0.98 | not NA acc: 0.95  | tot acc: 0.97 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9546 | F1 0.5366 | AUC 0.5260
+Ignore ma_f1 0.5131 | input_theta 0.9546 test_result F1 0.5120 | AUC 0.4926
+| epoch  39 | time: 85.60s
+-----------------------------------------------------------------------------------------
+| epoch 40 | step 3850 |  ms/b 2407.89 | train loss 0.00118754 | NA acc: 0.98 | not NA acc: 0.97  | tot acc: 0.98 
+| epoch 40 | step 3900 |  ms/b 693.52 | train loss 0.00108908 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 41 | step 3950 |  ms/b 700.54 | train loss 0.00112671 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 41 | step 4000 |  ms/b 700.18 | train loss 0.00103348 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 42 | step 4050 |  ms/b 705.85 | train loss 0.00112160 | NA acc: 0.98 | not NA acc: 0.95  | tot acc: 0.97 
+| epoch 42 | step 4100 |  ms/b 708.65 | train loss 0.00100185 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 43 | step 4150 |  ms/b 700.06 | train loss 0.00099349 | NA acc: 0.98 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 43 | step 4200 |  ms/b 704.16 | train loss 0.00099557 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 44 | step 4250 |  ms/b 703.77 | train loss 0.00094659 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 44 | step 4300 |  ms/b 707.14 | train loss 0.00092680 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9022 | F1 0.5411 | AUC 0.5271
+Ignore ma_f1 0.5183 | input_theta 0.9022 test_result F1 0.5172 | AUC 0.4933
+| epoch  44 | time: 90.55s
+-----------------------------------------------------------------------------------------
+| epoch 45 | step 4350 |  ms/b 2569.19 | train loss 0.00086300 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 45 | step 4400 |  ms/b 694.33 | train loss 0.00087383 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 46 | step 4450 |  ms/b 698.53 | train loss 0.00101457 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 46 | step 4500 |  ms/b 708.34 | train loss 0.00087448 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 47 | step 4550 |  ms/b 700.26 | train loss 0.00090774 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 47 | step 4600 |  ms/b 708.58 | train loss 0.00092537 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 48 | step 4650 |  ms/b 701.58 | train loss 0.00086735 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 48 | step 4700 |  ms/b 708.88 | train loss 0.00082228 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 49 | step 4750 |  ms/b 698.19 | train loss 0.00086623 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 49 | step 4800 |  ms/b 701.59 | train loss 0.00087205 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8571 | F1 0.5444 | AUC 0.5356
+Ignore ma_f1 0.5217 | input_theta 0.8571 test_result F1 0.5202 | AUC 0.5047
+| epoch  49 | time: 86.67s
+-----------------------------------------------------------------------------------------
+| epoch 50 | step 4850 |  ms/b 2485.36 | train loss 0.00085362 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 51 | step 4900 |  ms/b 693.38 | train loss 0.00077709 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 51 | step 4950 |  ms/b 705.18 | train loss 0.00076089 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 52 | step 5000 |  ms/b 703.79 | train loss 0.00085532 | NA acc: 0.99 | not NA acc: 0.95  | tot acc: 0.98 
+| epoch 52 | step 5050 |  ms/b 703.16 | train loss 0.00073850 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 53 | step 5100 |  ms/b 699.21 | train loss 0.00083327 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 53 | step 5150 |  ms/b 701.44 | train loss 0.00075160 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 54 | step 5200 |  ms/b 699.33 | train loss 0.00080894 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 54 | step 5250 |  ms/b 713.18 | train loss 0.00075346 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9488 | F1 0.5409 | AUC 0.5266
+Ignore ma_f1 0.5195 | input_theta 0.9488 test_result F1 0.5194 | AUC 0.4946
+| epoch  54 | time: 89.76s
+-----------------------------------------------------------------------------------------
+| epoch 55 | step 5300 |  ms/b 2493.64 | train loss 0.00076486 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 55 | step 5350 |  ms/b 698.16 | train loss 0.00066743 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 56 | step 5400 |  ms/b 700.38 | train loss 0.00067403 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 56 | step 5450 |  ms/b 698.57 | train loss 0.00064625 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 57 | step 5500 |  ms/b 700.71 | train loss 0.00065523 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 57 | step 5550 |  ms/b 704.59 | train loss 0.00064529 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 58 | step 5600 |  ms/b 703.49 | train loss 0.00064908 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 58 | step 5650 |  ms/b 705.55 | train loss 0.00063218 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 59 | step 5700 |  ms/b 704.34 | train loss 0.00071003 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 59 | step 5750 |  ms/b 704.88 | train loss 0.00068137 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9273 | F1 0.5489 | AUC 0.5329
+Ignore ma_f1 0.5263 | input_theta 0.9273 test_result F1 0.5253 | AUC 0.4968
+| epoch  59 | time: 90.35s
+-----------------------------------------------------------------------------------------
+| epoch 60 | step 5800 |  ms/b 2552.60 | train loss 0.00069008 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 60 | step 5850 |  ms/b 698.55 | train loss 0.00062364 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 61 | step 5900 |  ms/b 699.17 | train loss 0.00064477 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 61 | step 5950 |  ms/b 710.92 | train loss 0.00061982 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 62 | step 6000 |  ms/b 704.19 | train loss 0.00056439 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 63 | step 6050 |  ms/b 702.12 | train loss 0.00057269 | NA acc: 0.99 | not NA acc: 0.97  | tot acc: 0.98 
+| epoch 63 | step 6100 |  ms/b 705.04 | train loss 0.00058897 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 64 | step 6150 |  ms/b 701.27 | train loss 0.00056387 | NA acc: 0.99 | not NA acc: 0.95  | tot acc: 0.98 
+| epoch 64 | step 6200 |  ms/b 703.35 | train loss 0.00062305 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9070 | F1 0.5466 | AUC 0.5303
+Ignore ma_f1 0.5243 | input_theta 0.9070 test_result F1 0.5236 | AUC 0.4996
+| epoch  64 | time: 89.14s
+-----------------------------------------------------------------------------------------
+| epoch 65 | step 6250 |  ms/b 2480.31 | train loss 0.00059819 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 65 | step 6300 |  ms/b 703.26 | train loss 0.00057610 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 66 | step 6350 |  ms/b 696.50 | train loss 0.00058166 | NA acc: 0.99 | not NA acc: 0.97  | tot acc: 0.98 
+| epoch 66 | step 6400 |  ms/b 699.98 | train loss 0.00050735 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 67 | step 6450 |  ms/b 702.45 | train loss 0.00056677 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 67 | step 6500 |  ms/b 703.60 | train loss 0.00057510 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 68 | step 6550 |  ms/b 702.10 | train loss 0.00058082 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 68 | step 6600 |  ms/b 703.58 | train loss 0.00062964 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 69 | step 6650 |  ms/b 706.37 | train loss 0.00048857 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 69 | step 6700 |  ms/b 707.26 | train loss 0.00050790 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8527 | F1 0.5458 | AUC 0.5299
+Ignore ma_f1 0.5222 | input_theta 0.8527 test_result F1 0.5217 | AUC 0.4970
+| epoch  69 | time: 88.78s
+-----------------------------------------------------------------------------------------
+| epoch 70 | step 6750 |  ms/b 2469.08 | train loss 0.00049920 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 70 | step 6800 |  ms/b 702.74 | train loss 0.00049063 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 71 | step 6850 |  ms/b 699.96 | train loss 0.00049784 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 71 | step 6900 |  ms/b 702.37 | train loss 0.00046842 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 72 | step 6950 |  ms/b 698.69 | train loss 0.00045947 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 72 | step 7000 |  ms/b 707.53 | train loss 0.00044943 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 73 | step 7050 |  ms/b 701.75 | train loss 0.00043068 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 73 | step 7100 |  ms/b 703.55 | train loss 0.00045251 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 74 | step 7150 |  ms/b 705.14 | train loss 0.00040610 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 74 | step 7200 |  ms/b 692.80 | train loss 0.00043774 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9271 | F1 0.5476 | AUC 0.5308
+Ignore ma_f1 0.5266 | input_theta 0.9271 test_result F1 0.5251 | AUC 0.4996
+| epoch  74 | time: 89.83s
+-----------------------------------------------------------------------------------------
+| epoch 75 | step 7250 |  ms/b 2494.33 | train loss 0.00045263 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 76 | step 7300 |  ms/b 700.73 | train loss 0.00047257 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 76 | step 7350 |  ms/b 702.72 | train loss 0.00049862 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 77 | step 7400 |  ms/b 699.65 | train loss 0.00041268 | NA acc: 0.99 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 77 | step 7450 |  ms/b 710.38 | train loss 0.00044479 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 78 | step 7500 |  ms/b 701.54 | train loss 0.00039478 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 78 | step 7550 |  ms/b 705.06 | train loss 0.00038956 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 79 | step 7600 |  ms/b 699.74 | train loss 0.00033315 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 79 | step 7650 |  ms/b 701.33 | train loss 0.00036487 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9354 | F1 0.5532 | AUC 0.5383
+Ignore ma_f1 0.5294 | input_theta 0.9354 test_result F1 0.5292 | AUC 0.5056
+| epoch  79 | time: 90.29s
+-----------------------------------------------------------------------------------------
+| epoch 80 | step 7700 |  ms/b 2559.46 | train loss 0.00045109 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 80 | step 7750 |  ms/b 697.74 | train loss 0.00043334 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 81 | step 7800 |  ms/b 697.95 | train loss 0.00037148 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 81 | step 7850 |  ms/b 706.66 | train loss 0.00041517 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 82 | step 7900 |  ms/b 700.40 | train loss 0.00033265 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 82 | step 7950 |  ms/b 712.31 | train loss 0.00035635 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 83 | step 8000 |  ms/b 698.99 | train loss 0.00034690 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 83 | step 8050 |  ms/b 708.20 | train loss 0.00039716 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 84 | step 8100 |  ms/b 707.49 | train loss 0.00038027 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 84 | step 8150 |  ms/b 709.16 | train loss 0.00035963 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8772 | F1 0.5550 | AUC 0.5410
+Ignore ma_f1 0.5330 | input_theta 0.8772 test_result F1 0.5330 | AUC 0.5084
+| epoch  84 | time: 90.13s
+-----------------------------------------------------------------------------------------
+| epoch 85 | step 8200 |  ms/b 2559.19 | train loss 0.00035062 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 85 | step 8250 |  ms/b 700.65 | train loss 0.00032933 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 86 | step 8300 |  ms/b 701.87 | train loss 0.00034715 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 86 | step 8350 |  ms/b 700.71 | train loss 0.00035423 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 87 | step 8400 |  ms/b 700.83 | train loss 0.00039642 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 88 | step 8450 |  ms/b 701.97 | train loss 0.00034807 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 88 | step 8500 |  ms/b 706.58 | train loss 0.00033302 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 89 | step 8550 |  ms/b 700.74 | train loss 0.00031849 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 89 | step 8600 |  ms/b 699.35 | train loss 0.00032744 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9422 | F1 0.5541 | AUC 0.5415
+Ignore ma_f1 0.5321 | input_theta 0.9422 test_result F1 0.5318 | AUC 0.5092
+| epoch  89 | time: 90.22s
+-----------------------------------------------------------------------------------------
+| epoch 90 | step 8650 |  ms/b 2499.35 | train loss 0.00034278 | NA acc: 0.99 | not NA acc: 0.97  | tot acc: 0.98 
+| epoch 90 | step 8700 |  ms/b 691.65 | train loss 0.00031571 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 91 | step 8750 |  ms/b 698.28 | train loss 0.00032470 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 91 | step 8800 |  ms/b 702.09 | train loss 0.00035936 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 92 | step 8850 |  ms/b 704.02 | train loss 0.00029116 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 92 | step 8900 |  ms/b 701.50 | train loss 0.00029754 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 93 | step 8950 |  ms/b 703.66 | train loss 0.00026770 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 93 | step 9000 |  ms/b 699.47 | train loss 0.00027752 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 94 | step 9050 |  ms/b 698.40 | train loss 0.00028710 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 94 | step 9100 |  ms/b 704.67 | train loss 0.00024743 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9403 | F1 0.5531 | AUC 0.5253
+Ignore ma_f1 0.5294 | input_theta 0.9403 test_result F1 0.5285 | AUC 0.4890
+| epoch  94 | time: 88.44s
+-----------------------------------------------------------------------------------------
+| epoch 95 | step 9150 |  ms/b 2462.14 | train loss 0.00027520 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 95 | step 9200 |  ms/b 699.39 | train loss 0.00027666 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 96 | step 9250 |  ms/b 695.76 | train loss 0.00027390 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 96 | step 9300 |  ms/b 702.34 | train loss 0.00027621 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 97 | step 9350 |  ms/b 700.96 | train loss 0.00025538 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 97 | step 9400 |  ms/b 710.00 | train loss 0.00028772 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 98 | step 9450 |  ms/b 699.19 | train loss 0.00025459 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 98 | step 9500 |  ms/b 700.13 | train loss 0.00023084 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 99 | step 9550 |  ms/b 698.73 | train loss 0.00023767 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 99 | step 9600 |  ms/b 698.35 | train loss 0.00026326 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9289 | F1 0.5568 | AUC 0.5427
+Ignore ma_f1 0.5333 | input_theta 0.9289 test_result F1 0.5329 | AUC 0.5082
+| epoch  99 | time: 89.54s
+-----------------------------------------------------------------------------------------
+| epoch 100 | step 9650 |  ms/b 2548.80 | train loss 0.00030416 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 101 | step 9700 |  ms/b 697.09 | train loss 0.00021888 | NA acc: 1.00 | not NA acc: 0.95  | tot acc: 0.98 
+| epoch 101 | step 9750 |  ms/b 703.31 | train loss 0.00025546 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 102 | step 9800 |  ms/b 703.56 | train loss 0.00022193 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 102 | step 9850 |  ms/b 704.16 | train loss 0.00024174 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 103 | step 9900 |  ms/b 703.89 | train loss 0.00024785 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 103 | step 9950 |  ms/b 703.01 | train loss 0.00022865 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 104 | step 10000 |  ms/b 700.56 | train loss 0.00023257 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 104 | step 10050 |  ms/b 704.83 | train loss 0.00023162 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8962 | F1 0.5616 | AUC 0.5455
+Ignore ma_f1 0.5400 | input_theta 0.8962 test_result F1 0.5389 | AUC 0.5119
+| epoch 104 | time: 86.65s
+-----------------------------------------------------------------------------------------
+| epoch 105 | step 10100 |  ms/b 2491.35 | train loss 0.00025235 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 105 | step 10150 |  ms/b 701.74 | train loss 0.00022918 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 106 | step 10200 |  ms/b 694.63 | train loss 0.00023989 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 106 | step 10250 |  ms/b 700.20 | train loss 0.00020743 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 107 | step 10300 |  ms/b 698.81 | train loss 0.00021410 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 107 | step 10350 |  ms/b 702.01 | train loss 0.00019944 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 108 | step 10400 |  ms/b 700.48 | train loss 0.00023105 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 108 | step 10450 |  ms/b 707.01 | train loss 0.00018345 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 109 | step 10500 |  ms/b 700.90 | train loss 0.00020052 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 109 | step 10550 |  ms/b 705.43 | train loss 0.00017624 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9270 | F1 0.5591 | AUC 0.5424
+Ignore ma_f1 0.5384 | input_theta 0.9270 test_result F1 0.5374 | AUC 0.5099
+| epoch 109 | time: 89.24s
+-----------------------------------------------------------------------------------------
+| epoch 110 | step 10600 |  ms/b 2478.42 | train loss 0.00021327 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 110 | step 10650 |  ms/b 699.50 | train loss 0.00018774 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 111 | step 10700 |  ms/b 698.38 | train loss 0.00019492 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 111 | step 10750 |  ms/b 697.07 | train loss 0.00017733 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 112 | step 10800 |  ms/b 704.48 | train loss 0.00020413 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 113 | step 10850 |  ms/b 704.02 | train loss 0.00018738 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 113 | step 10900 |  ms/b 705.76 | train loss 0.00020707 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 114 | step 10950 |  ms/b 705.18 | train loss 0.00020967 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 114 | step 11000 |  ms/b 703.59 | train loss 0.00017216 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8248 | F1 0.5599 | AUC 0.5465
+Ignore ma_f1 0.5387 | input_theta 0.8248 test_result F1 0.5376 | AUC 0.5171
+| epoch 114 | time: 90.14s
+-----------------------------------------------------------------------------------------
+| epoch 115 | step 11050 |  ms/b 2502.37 | train loss 0.00016592 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 115 | step 11100 |  ms/b 694.09 | train loss 0.00016340 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 116 | step 11150 |  ms/b 702.37 | train loss 0.00016861 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 116 | step 11200 |  ms/b 701.56 | train loss 0.00018780 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 117 | step 11250 |  ms/b 697.17 | train loss 0.00015036 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 117 | step 11300 |  ms/b 702.27 | train loss 0.00017785 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 118 | step 11350 |  ms/b 698.27 | train loss 0.00021879 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 118 | step 11400 |  ms/b 704.86 | train loss 0.00020386 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 119 | step 11450 |  ms/b 698.33 | train loss 0.00014372 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 119 | step 11500 |  ms/b 697.04 | train loss 0.00018247 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9471 | F1 0.5593 | AUC 0.5404
+Ignore ma_f1 0.5378 | input_theta 0.9471 test_result F1 0.5377 | AUC 0.5094
+| epoch 119 | time: 89.17s
+-----------------------------------------------------------------------------------------
+| epoch 120 | step 11550 |  ms/b 2472.45 | train loss 0.00017628 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 120 | step 11600 |  ms/b 700.35 | train loss 0.00022679 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 121 | step 11650 |  ms/b 698.95 | train loss 0.00017691 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 121 | step 11700 |  ms/b 700.79 | train loss 0.00018122 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 122 | step 11750 |  ms/b 706.28 | train loss 0.00018281 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 122 | step 11800 |  ms/b 706.41 | train loss 0.00026643 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 123 | step 11850 |  ms/b 698.86 | train loss 0.00017531 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 123 | step 11900 |  ms/b 701.21 | train loss 0.00015914 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 124 | step 11950 |  ms/b 701.37 | train loss 0.00015901 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 124 | step 12000 |  ms/b 691.71 | train loss 0.00017504 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9199 | F1 0.5569 | AUC 0.5369
+Ignore ma_f1 0.5350 | input_theta 0.9199 test_result F1 0.5343 | AUC 0.5045
+| epoch 124 | time: 89.12s
+-----------------------------------------------------------------------------------------
+| epoch 125 | step 12050 |  ms/b 2478.42 | train loss 0.00013357 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 126 | step 12100 |  ms/b 695.72 | train loss 0.00014239 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 126 | step 12150 |  ms/b 703.50 | train loss 0.00014548 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 127 | step 12200 |  ms/b 696.98 | train loss 0.00013010 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 127 | step 12250 |  ms/b 703.09 | train loss 0.00014802 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 128 | step 12300 |  ms/b 703.32 | train loss 0.00013259 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.98 
+| epoch 128 | step 12350 |  ms/b 702.08 | train loss 0.00013157 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 129 | step 12400 |  ms/b 695.42 | train loss 0.00013487 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 129 | step 12450 |  ms/b 705.95 | train loss 0.00015079 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.6506 | F1 0.5628 | AUC 0.5444
+Ignore ma_f1 0.5400 | input_theta 0.6506 test_result F1 0.5379 | AUC 0.5125
+| epoch 129 | time: 90.08s
+-----------------------------------------------------------------------------------------
+| epoch 130 | step 12500 |  ms/b 2558.09 | train loss 0.00010873 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 130 | step 12550 |  ms/b 695.92 | train loss 0.00011489 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 131 | step 12600 |  ms/b 697.60 | train loss 0.00011388 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 131 | step 12650 |  ms/b 704.01 | train loss 0.00010183 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 132 | step 12700 |  ms/b 699.30 | train loss 0.00009588 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 132 | step 12750 |  ms/b 705.05 | train loss 0.00011322 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 133 | step 12800 |  ms/b 701.63 | train loss 0.00011994 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 133 | step 12850 |  ms/b 703.26 | train loss 0.00011980 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 134 | step 12900 |  ms/b 703.53 | train loss 0.00010249 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 134 | step 12950 |  ms/b 701.08 | train loss 0.00010331 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8647 | F1 0.5624 | AUC 0.5438
+Ignore ma_f1 0.5401 | input_theta 0.8647 test_result F1 0.5395 | AUC 0.5093
+| epoch 134 | time: 89.90s
+-----------------------------------------------------------------------------------------
+| epoch 135 | step 13000 |  ms/b 2496.18 | train loss 0.00010922 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 135 | step 13050 |  ms/b 700.27 | train loss 0.00011696 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 136 | step 13100 |  ms/b 700.67 | train loss 0.00010859 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 136 | step 13150 |  ms/b 702.68 | train loss 0.00010473 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 137 | step 13200 |  ms/b 706.96 | train loss 0.00013267 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 138 | step 13250 |  ms/b 699.40 | train loss 0.00011299 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 138 | step 13300 |  ms/b 702.84 | train loss 0.00010959 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 139 | step 13350 |  ms/b 701.82 | train loss 0.00011671 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 139 | step 13400 |  ms/b 703.30 | train loss 0.00012359 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8299 | F1 0.5645 | AUC 0.5447
+Ignore ma_f1 0.5416 | input_theta 0.8299 test_result F1 0.5411 | AUC 0.5108
+| epoch 139 | time: 89.07s
+-----------------------------------------------------------------------------------------
+| epoch 140 | step 13450 |  ms/b 2536.45 | train loss 0.00009243 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 140 | step 13500 |  ms/b 691.97 | train loss 0.00008376 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 141 | step 13550 |  ms/b 699.05 | train loss 0.00012313 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 141 | step 13600 |  ms/b 706.76 | train loss 0.00011923 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 142 | step 13650 |  ms/b 705.19 | train loss 0.00010305 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 142 | step 13700 |  ms/b 703.74 | train loss 0.00009371 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 143 | step 13750 |  ms/b 698.44 | train loss 0.00007787 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 143 | step 13800 |  ms/b 706.02 | train loss 0.00008871 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 144 | step 13850 |  ms/b 701.82 | train loss 0.00008990 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 144 | step 13900 |  ms/b 703.05 | train loss 0.00008384 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8883 | F1 0.5635 | AUC 0.5449
+Ignore ma_f1 0.5421 | input_theta 0.8883 test_result F1 0.5414 | AUC 0.5132
+| epoch 144 | time: 89.05s
+-----------------------------------------------------------------------------------------
+| epoch 145 | step 13950 |  ms/b 2475.23 | train loss 0.00008081 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 145 | step 14000 |  ms/b 696.74 | train loss 0.00007821 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 146 | step 14050 |  ms/b 700.87 | train loss 0.00008181 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 146 | step 14100 |  ms/b 706.03 | train loss 0.00008445 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 147 | step 14150 |  ms/b 700.49 | train loss 0.00007909 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 147 | step 14200 |  ms/b 709.92 | train loss 0.00010635 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 148 | step 14250 |  ms/b 695.80 | train loss 0.00008856 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 148 | step 14300 |  ms/b 709.84 | train loss 0.00009041 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 149 | step 14350 |  ms/b 701.51 | train loss 0.00008914 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 149 | step 14400 |  ms/b 697.25 | train loss 0.00007800 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8368 | F1 0.5651 | AUC 0.5406
+Ignore ma_f1 0.5406 | input_theta 0.8368 test_result F1 0.5401 | AUC 0.5060
+| epoch 149 | time: 90.16s
+-----------------------------------------------------------------------------------------
+| epoch 150 | step 14450 |  ms/b 2574.75 | train loss 0.00010616 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 151 | step 14500 |  ms/b 697.15 | train loss 0.00008610 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 151 | step 14550 |  ms/b 700.79 | train loss 0.00007384 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 152 | step 14600 |  ms/b 700.95 | train loss 0.00008578 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 152 | step 14650 |  ms/b 705.13 | train loss 0.00006920 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 153 | step 14700 |  ms/b 700.54 | train loss 0.00007456 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 153 | step 14750 |  ms/b 702.59 | train loss 0.00008177 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 154 | step 14800 |  ms/b 703.52 | train loss 0.00007106 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 154 | step 14850 |  ms/b 707.64 | train loss 0.00007777 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.7233 | F1 0.5642 | AUC 0.5425
+Ignore ma_f1 0.5408 | input_theta 0.7233 test_result F1 0.5392 | AUC 0.5073
+| epoch 154 | time: 86.71s
+-----------------------------------------------------------------------------------------
+| epoch 155 | step 14900 |  ms/b 2436.20 | train loss 0.00007148 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 155 | step 14950 |  ms/b 695.27 | train loss 0.00007708 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 156 | step 15000 |  ms/b 693.77 | train loss 0.00008156 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 156 | step 15050 |  ms/b 703.71 | train loss 0.00006632 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 157 | step 15100 |  ms/b 699.91 | train loss 0.00006820 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 157 | step 15150 |  ms/b 701.48 | train loss 0.00007945 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 158 | step 15200 |  ms/b 706.27 | train loss 0.00006325 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 158 | step 15250 |  ms/b 707.18 | train loss 0.00007815 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 159 | step 15300 |  ms/b 702.24 | train loss 0.00006485 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 159 | step 15350 |  ms/b 698.68 | train loss 0.00005764 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.7604 | F1 0.5662 | AUC 0.5420
+Ignore ma_f1 0.5422 | input_theta 0.7604 test_result F1 0.5421 | AUC 0.5079
+| epoch 159 | time: 89.03s
+-----------------------------------------------------------------------------------------
+| epoch 160 | step 15400 |  ms/b 2531.23 | train loss 0.00006846 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 160 | step 15450 |  ms/b 696.89 | train loss 0.00005445 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 161 | step 15500 |  ms/b 703.66 | train loss 0.00004917 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 161 | step 15550 |  ms/b 703.52 | train loss 0.00006639 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 162 | step 15600 |  ms/b 699.33 | train loss 0.00006361 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 163 | step 15650 |  ms/b 697.98 | train loss 0.00006248 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 163 | step 15700 |  ms/b 697.70 | train loss 0.00005714 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 164 | step 15750 |  ms/b 702.91 | train loss 0.00006075 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 164 | step 15800 |  ms/b 703.58 | train loss 0.00005516 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8101 | F1 0.5669 | AUC 0.5439
+Ignore ma_f1 0.5445 | input_theta 0.8101 test_result F1 0.5444 | AUC 0.5110
+| epoch 164 | time: 90.24s
+-----------------------------------------------------------------------------------------
+| epoch 165 | step 15850 |  ms/b 2565.70 | train loss 0.00006523 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 165 | step 15900 |  ms/b 690.34 | train loss 0.00005603 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 166 | step 15950 |  ms/b 694.79 | train loss 0.00004560 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 166 | step 16000 |  ms/b 705.56 | train loss 0.00005363 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 167 | step 16050 |  ms/b 700.66 | train loss 0.00006038 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 167 | step 16100 |  ms/b 706.76 | train loss 0.00005134 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 168 | step 16150 |  ms/b 701.03 | train loss 0.00006018 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 168 | step 16200 |  ms/b 706.06 | train loss 0.00005850 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 169 | step 16250 |  ms/b 701.76 | train loss 0.00006428 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 169 | step 16300 |  ms/b 704.21 | train loss 0.00005100 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9011 | F1 0.5688 | AUC 0.5447
+Ignore ma_f1 0.5476 | input_theta 0.9011 test_result F1 0.5475 | AUC 0.5119
+| epoch 169 | time: 86.64s
+-----------------------------------------------------------------------------------------
+| epoch 170 | step 16350 |  ms/b 2489.02 | train loss 0.00005220 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 170 | step 16400 |  ms/b 703.09 | train loss 0.00005584 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 171 | step 16450 |  ms/b 700.85 | train loss 0.00005156 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 171 | step 16500 |  ms/b 703.30 | train loss 0.00004654 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 172 | step 16550 |  ms/b 705.52 | train loss 0.00004591 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 172 | step 16600 |  ms/b 703.39 | train loss 0.00004760 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 173 | step 16650 |  ms/b 704.90 | train loss 0.00005445 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 173 | step 16700 |  ms/b 701.67 | train loss 0.00004260 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 174 | step 16750 |  ms/b 701.19 | train loss 0.00003821 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 174 | step 16800 |  ms/b 699.49 | train loss 0.00004834 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.7174 | F1 0.5673 | AUC 0.5423
+Ignore ma_f1 0.5437 | input_theta 0.7174 test_result F1 0.5435 | AUC 0.5085
+| epoch 174 | time: 90.25s
+-----------------------------------------------------------------------------------------
+| epoch 175 | step 16850 |  ms/b 2507.45 | train loss 0.00004682 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 176 | step 16900 |  ms/b 698.40 | train loss 0.00004335 | NA acc: 1.00 | not NA acc: 0.95  | tot acc: 0.98 
+| epoch 176 | step 16950 |  ms/b 699.26 | train loss 0.00004601 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 177 | step 17000 |  ms/b 700.24 | train loss 0.00004027 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 177 | step 17050 |  ms/b 709.28 | train loss 0.00005046 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 178 | step 17100 |  ms/b 697.12 | train loss 0.00004086 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 178 | step 17150 |  ms/b 708.11 | train loss 0.00004498 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 179 | step 17200 |  ms/b 702.34 | train loss 0.00004829 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 179 | step 17250 |  ms/b 701.64 | train loss 0.00003922 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.7675 | F1 0.5675 | AUC 0.5430
+Ignore ma_f1 0.5449 | input_theta 0.7675 test_result F1 0.5446 | AUC 0.5092
+| epoch 179 | time: 90.39s
+-----------------------------------------------------------------------------------------
+| epoch 180 | step 17300 |  ms/b 2505.65 | train loss 0.00004048 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 180 | step 17350 |  ms/b 694.86 | train loss 0.00004397 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 181 | step 17400 |  ms/b 696.88 | train loss 0.00002847 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 181 | step 17450 |  ms/b 701.45 | train loss 0.00003658 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 182 | step 17500 |  ms/b 692.15 | train loss 0.00004896 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 182 | step 17550 |  ms/b 713.74 | train loss 0.00005138 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 183 | step 17600 |  ms/b 696.39 | train loss 0.00004109 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 183 | step 17650 |  ms/b 700.05 | train loss 0.00003258 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 184 | step 17700 |  ms/b 702.42 | train loss 0.00003544 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 184 | step 17750 |  ms/b 707.66 | train loss 0.00003359 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.7031 | F1 0.5689 | AUC 0.5432
+Ignore ma_f1 0.5466 | input_theta 0.7031 test_result F1 0.5450 | AUC 0.5097
+| epoch 184 | time: 90.04s
+-----------------------------------------------------------------------------------------
+| epoch 185 | step 17800 |  ms/b 2552.72 | train loss 0.00003742 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 185 | step 17850 |  ms/b 696.35 | train loss 0.00003194 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 186 | step 17900 |  ms/b 702.53 | train loss 0.00003216 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 186 | step 17950 |  ms/b 698.06 | train loss 0.00002891 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 187 | step 18000 |  ms/b 702.25 | train loss 0.00003434 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 188 | step 18050 |  ms/b 700.71 | train loss 0.00002962 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 188 | step 18100 |  ms/b 709.02 | train loss 0.00003098 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 189 | step 18150 |  ms/b 693.94 | train loss 0.00002507 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 189 | step 18200 |  ms/b 705.92 | train loss 0.00003204 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8386 | F1 0.5693 | AUC 0.5448
+Ignore ma_f1 0.5482 | input_theta 0.8386 test_result F1 0.5474 | AUC 0.5119
+| epoch 189 | time: 89.51s
+-----------------------------------------------------------------------------------------
+| epoch 190 | step 18250 |  ms/b 2545.78 | train loss 0.00003152 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 190 | step 18300 |  ms/b 695.14 | train loss 0.00002859 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 191 | step 18350 |  ms/b 698.52 | train loss 0.00003768 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 191 | step 18400 |  ms/b 702.66 | train loss 0.00004181 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 192 | step 18450 |  ms/b 700.09 | train loss 0.00003302 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 192 | step 18500 |  ms/b 702.96 | train loss 0.00003393 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 193 | step 18550 |  ms/b 702.04 | train loss 0.00002585 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 193 | step 18600 |  ms/b 699.13 | train loss 0.00002204 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 194 | step 18650 |  ms/b 701.66 | train loss 0.00003078 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 194 | step 18700 |  ms/b 701.97 | train loss 0.00002907 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8398 | F1 0.5690 | AUC 0.5445
+Ignore ma_f1 0.5473 | input_theta 0.8398 test_result F1 0.5472 | AUC 0.5115
+| epoch 194 | time: 89.00s
+-----------------------------------------------------------------------------------------
+| epoch 195 | step 18750 |  ms/b 2482.62 | train loss 0.00003732 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 195 | step 18800 |  ms/b 694.76 | train loss 0.00002561 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 196 | step 18850 |  ms/b 695.34 | train loss 0.00003396 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 196 | step 18900 |  ms/b 699.73 | train loss 0.00002438 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 197 | step 18950 |  ms/b 707.21 | train loss 0.00003074 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 197 | step 19000 |  ms/b 704.91 | train loss 0.00003240 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 198 | step 19050 |  ms/b 704.60 | train loss 0.00003291 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 198 | step 19100 |  ms/b 701.79 | train loss 0.00003357 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 199 | step 19150 |  ms/b 699.89 | train loss 0.00002914 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 199 | step 19200 |  ms/b 693.50 | train loss 0.00004211 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8530 | F1 0.5696 | AUC 0.5456
+Ignore ma_f1 0.5482 | input_theta 0.8530 test_result F1 0.5481 | AUC 0.5129
+| epoch 199 | time: 85.92s
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8530 | F1 0.5696 | AUC 0.5456
+Ignore ma_f1 0.5482 | input_theta 0.8530 test_result F1 0.5481 | AUC 0.5129
+| epoch 199 | time: 89.29s
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8530 | F1 0.5696 | AUC 0.5456
+Ignore ma_f1 0.5482 | input_theta 0.8530 test_result F1 0.5481 | AUC 0.5129
+| epoch  0 | step   50 |  ms/b 843.53 | train loss 0.93448725 | NA acc: 0.00 | not NA acc: 0.01  | tot acc: 0.01 
+| epoch  1 | step  100 |  ms/b 690.94 | train loss 0.87092675 | NA acc: 0.00 | not NA acc: 0.01  | tot acc: 0.01 
+| epoch  1 | step  150 |  ms/b 697.90 | train loss 0.75360684 | NA acc: 0.02 | not NA acc: 0.01  | tot acc: 0.01 
+| epoch  2 | step  200 |  ms/b 693.30 | train loss 0.46141902 | NA acc: 0.44 | not NA acc: 0.01  | tot acc: 0.28 
+| epoch  2 | step  250 |  ms/b 704.79 | train loss 0.09126961 | NA acc: 0.61 | not NA acc: 0.02  | tot acc: 0.41 
+| epoch  3 | step  300 |  ms/b 703.24 | train loss 0.04129270 | NA acc: 0.93 | not NA acc: 0.05  | tot acc: 0.63 
+| epoch  3 | step  350 |  ms/b 702.62 | train loss 0.03973150 | NA acc: 0.89 | not NA acc: 0.08  | tot acc: 0.61 
+| epoch  4 | step  400 |  ms/b 703.22 | train loss 0.03086451 | NA acc: 0.95 | not NA acc: 0.18  | tot acc: 0.69 
+| epoch  4 | step  450 |  ms/b 705.88 | train loss 0.03192973 | NA acc: 0.94 | not NA acc: 0.21  | tot acc: 0.68 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.7134 | F1 0.2159 | AUC 0.1183
+Ignore ma_f1 0.1974 | input_theta 0.7134 test_result F1 0.1965 | AUC 0.1011
+| epoch   4 | time: 89.94s
+-----------------------------------------------------------------------------------------
+| epoch  5 | step  500 |  ms/b 2549.80 | train loss 0.02830379 | NA acc: 0.94 | not NA acc: 0.28  | tot acc: 0.70 
+| epoch  5 | step  550 |  ms/b 700.34 | train loss 0.02421062 | NA acc: 0.95 | not NA acc: 0.31  | tot acc: 0.73 
+| epoch  6 | step  600 |  ms/b 705.24 | train loss 0.02165513 | NA acc: 0.93 | not NA acc: 0.39  | tot acc: 0.75 
+| epoch  6 | step  650 |  ms/b 702.18 | train loss 0.02141611 | NA acc: 0.94 | not NA acc: 0.41  | tot acc: 0.76 
+| epoch  7 | step  700 |  ms/b 704.41 | train loss 0.01827287 | NA acc: 0.93 | not NA acc: 0.48  | tot acc: 0.78 
+| epoch  7 | step  750 |  ms/b 701.56 | train loss 0.01739439 | NA acc: 0.94 | not NA acc: 0.50  | tot acc: 0.78 
+| epoch  8 | step  800 |  ms/b 704.32 | train loss 0.01559766 | NA acc: 0.94 | not NA acc: 0.56  | tot acc: 0.81 
+| epoch  8 | step  850 |  ms/b 705.35 | train loss 0.01494381 | NA acc: 0.94 | not NA acc: 0.56  | tot acc: 0.81 
+| epoch  9 | step  900 |  ms/b 701.63 | train loss 0.01417521 | NA acc: 0.93 | not NA acc: 0.61  | tot acc: 0.82 
+| epoch  9 | step  950 |  ms/b 708.34 | train loss 0.01241843 | NA acc: 0.94 | not NA acc: 0.61  | tot acc: 0.83 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8848 | F1 0.4054 | AUC 0.3449
+Ignore ma_f1 0.3839 | input_theta 0.8848 test_result F1 0.3838 | AUC 0.3174
+| epoch   9 | time: 91.99s
+-----------------------------------------------------------------------------------------
+| epoch 10 | step 1000 |  ms/b 2586.39 | train loss 0.01227151 | NA acc: 0.92 | not NA acc: 0.66  | tot acc: 0.83 
+| epoch 10 | step 1050 |  ms/b 700.14 | train loss 0.01162067 | NA acc: 0.93 | not NA acc: 0.66  | tot acc: 0.84 
+| epoch 11 | step 1100 |  ms/b 699.94 | train loss 0.01060780 | NA acc: 0.94 | not NA acc: 0.70  | tot acc: 0.85 
+| epoch 11 | step 1150 |  ms/b 703.05 | train loss 0.00994540 | NA acc: 0.94 | not NA acc: 0.70  | tot acc: 0.86 
+| epoch 12 | step 1200 |  ms/b 697.16 | train loss 0.01017163 | NA acc: 0.93 | not NA acc: 0.73  | tot acc: 0.86 
+| epoch 13 | step 1250 |  ms/b 702.44 | train loss 0.00882421 | NA acc: 0.94 | not NA acc: 0.75  | tot acc: 0.84 
+| epoch 13 | step 1300 |  ms/b 701.64 | train loss 0.00834112 | NA acc: 0.94 | not NA acc: 0.75  | tot acc: 0.87 
+| epoch 14 | step 1350 |  ms/b 694.31 | train loss 0.00857237 | NA acc: 0.88 | not NA acc: 0.81  | tot acc: 0.85 
+| epoch 14 | step 1400 |  ms/b 704.42 | train loss 0.00789779 | NA acc: 0.93 | not NA acc: 0.77  | tot acc: 0.88 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9356 | F1 0.4743 | AUC 0.4464
+Ignore ma_f1 0.4541 | input_theta 0.9356 test_result F1 0.4529 | AUC 0.4189
+| epoch  14 | time: 87.25s
+-----------------------------------------------------------------------------------------
+| epoch 15 | step 1450 |  ms/b 2504.34 | train loss 0.00788897 | NA acc: 0.95 | not NA acc: 0.75  | tot acc: 0.88 
+| epoch 15 | step 1500 |  ms/b 698.31 | train loss 0.00698257 | NA acc: 0.94 | not NA acc: 0.78  | tot acc: 0.89 
+| epoch 16 | step 1550 |  ms/b 695.95 | train loss 0.00665832 | NA acc: 0.95 | not NA acc: 0.80  | tot acc: 0.90 
+| epoch 16 | step 1600 |  ms/b 704.77 | train loss 0.00652096 | NA acc: 0.95 | not NA acc: 0.81  | tot acc: 0.90 
+| epoch 17 | step 1650 |  ms/b 698.51 | train loss 0.00638041 | NA acc: 0.93 | not NA acc: 0.86  | tot acc: 0.90 
+| epoch 17 | step 1700 |  ms/b 701.32 | train loss 0.00597999 | NA acc: 0.94 | not NA acc: 0.84  | tot acc: 0.90 
+| epoch 18 | step 1750 |  ms/b 697.43 | train loss 0.00639828 | NA acc: 0.95 | not NA acc: 0.83  | tot acc: 0.91 
+| epoch 18 | step 1800 |  ms/b 703.02 | train loss 0.00546224 | NA acc: 0.95 | not NA acc: 0.84  | tot acc: 0.91 
+| epoch 19 | step 1850 |  ms/b 704.43 | train loss 0.00508654 | NA acc: 0.96 | not NA acc: 0.84  | tot acc: 0.92 
+| epoch 19 | step 1900 |  ms/b 703.75 | train loss 0.00541961 | NA acc: 0.95 | not NA acc: 0.86  | tot acc: 0.92 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9628 | F1 0.4919 | AUC 0.4674
+Ignore ma_f1 0.4696 | input_theta 0.9628 test_result F1 0.4693 | AUC 0.4384
+| epoch  19 | time: 87.39s
+-----------------------------------------------------------------------------------------
+| epoch 20 | step 1950 |  ms/b 2503.18 | train loss 0.00533589 | NA acc: 0.95 | not NA acc: 0.87  | tot acc: 0.92 
+| epoch 20 | step 2000 |  ms/b 698.83 | train loss 0.00492331 | NA acc: 0.95 | not NA acc: 0.87  | tot acc: 0.92 
+| epoch 21 | step 2050 |  ms/b 706.55 | train loss 0.00455451 | NA acc: 0.96 | not NA acc: 0.87  | tot acc: 0.93 
+| epoch 21 | step 2100 |  ms/b 702.01 | train loss 0.00445181 | NA acc: 0.95 | not NA acc: 0.88  | tot acc: 0.93 
+| epoch 22 | step 2150 |  ms/b 692.71 | train loss 0.00434121 | NA acc: 0.96 | not NA acc: 0.89  | tot acc: 0.93 
+| epoch 22 | step 2200 |  ms/b 702.18 | train loss 0.00449038 | NA acc: 0.95 | not NA acc: 0.89  | tot acc: 0.93 
+| epoch 23 | step 2250 |  ms/b 699.85 | train loss 0.00445543 | NA acc: 0.95 | not NA acc: 0.89  | tot acc: 0.93 
+| epoch 23 | step 2300 |  ms/b 704.02 | train loss 0.00413586 | NA acc: 0.95 | not NA acc: 0.90  | tot acc: 0.93 
+| epoch 24 | step 2350 |  ms/b 703.95 | train loss 0.00357114 | NA acc: 0.96 | not NA acc: 0.90  | tot acc: 0.94 
+| epoch 24 | step 2400 |  ms/b 693.23 | train loss 0.00411629 | NA acc: 0.96 | not NA acc: 0.90  | tot acc: 0.94 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9436 | F1 0.5062 | AUC 0.4824
+Ignore ma_f1 0.4812 | input_theta 0.9436 test_result F1 0.4809 | AUC 0.4495
+| epoch  24 | time: 87.31s
+-----------------------------------------------------------------------------------------
+| epoch 25 | step 2450 |  ms/b 2504.79 | train loss 0.00369793 | NA acc: 0.96 | not NA acc: 0.90  | tot acc: 0.94 
+| epoch 26 | step 2500 |  ms/b 701.99 | train loss 0.00323599 | NA acc: 0.96 | not NA acc: 0.92  | tot acc: 0.95 
+| epoch 26 | step 2550 |  ms/b 702.67 | train loss 0.00320372 | NA acc: 0.96 | not NA acc: 0.91  | tot acc: 0.95 
+| epoch 27 | step 2600 |  ms/b 703.03 | train loss 0.00323751 | NA acc: 0.96 | not NA acc: 0.92  | tot acc: 0.95 
+| epoch 27 | step 2650 |  ms/b 704.25 | train loss 0.00308587 | NA acc: 0.96 | not NA acc: 0.92  | tot acc: 0.95 
+| epoch 28 | step 2700 |  ms/b 700.48 | train loss 0.00303882 | NA acc: 0.96 | not NA acc: 0.92  | tot acc: 0.95 
+| epoch 28 | step 2750 |  ms/b 703.45 | train loss 0.00313709 | NA acc: 0.96 | not NA acc: 0.93  | tot acc: 0.95 
+| epoch 29 | step 2800 |  ms/b 703.89 | train loss 0.00295466 | NA acc: 0.97 | not NA acc: 0.93  | tot acc: 0.95 
+| epoch 29 | step 2850 |  ms/b 709.18 | train loss 0.00284965 | NA acc: 0.97 | not NA acc: 0.92  | tot acc: 0.95 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9167 | F1 0.5132 | AUC 0.4879
+Ignore ma_f1 0.4884 | input_theta 0.9167 test_result F1 0.4862 | AUC 0.4553
+| epoch  29 | time: 87.26s
+-----------------------------------------------------------------------------------------
+| epoch 30 | step 2900 |  ms/b 2506.94 | train loss 0.00266308 | NA acc: 0.97 | not NA acc: 0.92  | tot acc: 0.95 
+| epoch 30 | step 2950 |  ms/b 697.90 | train loss 0.00266913 | NA acc: 0.97 | not NA acc: 0.93  | tot acc: 0.95 
+| epoch 31 | step 3000 |  ms/b 695.91 | train loss 0.00264062 | NA acc: 0.96 | not NA acc: 0.94  | tot acc: 0.95 
+| epoch 31 | step 3050 |  ms/b 700.81 | train loss 0.00264538 | NA acc: 0.97 | not NA acc: 0.93  | tot acc: 0.95 
+| epoch 32 | step 3100 |  ms/b 703.49 | train loss 0.00235570 | NA acc: 0.97 | not NA acc: 0.93  | tot acc: 0.96 
+| epoch 32 | step 3150 |  ms/b 714.89 | train loss 0.00244854 | NA acc: 0.97 | not NA acc: 0.93  | tot acc: 0.96 
+| epoch 33 | step 3200 |  ms/b 701.34 | train loss 0.00247938 | NA acc: 0.97 | not NA acc: 0.94  | tot acc: 0.96 
+| epoch 33 | step 3250 |  ms/b 704.28 | train loss 0.00236016 | NA acc: 0.97 | not NA acc: 0.94  | tot acc: 0.96 
+| epoch 34 | step 3300 |  ms/b 702.44 | train loss 0.00230669 | NA acc: 0.97 | not NA acc: 0.94  | tot acc: 0.96 
+| epoch 34 | step 3350 |  ms/b 700.25 | train loss 0.00220531 | NA acc: 0.97 | not NA acc: 0.94  | tot acc: 0.96 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9617 | F1 0.5140 | AUC 0.4913
+Ignore ma_f1 0.4929 | input_theta 0.9617 test_result F1 0.4917 | AUC 0.4635
+| epoch  34 | time: 88.90s
+-----------------------------------------------------------------------------------------
+| epoch 35 | step 3400 |  ms/b 2534.34 | train loss 0.00226197 | NA acc: 0.97 | not NA acc: 0.95  | tot acc: 0.96 
+| epoch 35 | step 3450 |  ms/b 701.13 | train loss 0.00212154 | NA acc: 0.97 | not NA acc: 0.94  | tot acc: 0.96 
+| epoch 36 | step 3500 |  ms/b 693.82 | train loss 0.00208061 | NA acc: 0.97 | not NA acc: 0.94  | tot acc: 0.96 
+| epoch 36 | step 3550 |  ms/b 707.22 | train loss 0.00203901 | NA acc: 0.97 | not NA acc: 0.95  | tot acc: 0.96 
+| epoch 37 | step 3600 |  ms/b 697.96 | train loss 0.00189180 | NA acc: 0.97 | not NA acc: 0.95  | tot acc: 0.96 
+| epoch 38 | step 3650 |  ms/b 705.62 | train loss 0.00195111 | NA acc: 0.97 | not NA acc: 0.97  | tot acc: 0.97 
+| epoch 38 | step 3700 |  ms/b 702.83 | train loss 0.00192440 | NA acc: 0.97 | not NA acc: 0.95  | tot acc: 0.97 
+| epoch 39 | step 3750 |  ms/b 699.91 | train loss 0.00208114 | NA acc: 0.96 | not NA acc: 0.94  | tot acc: 0.96 
+| epoch 39 | step 3800 |  ms/b 704.49 | train loss 0.00212189 | NA acc: 0.97 | not NA acc: 0.94  | tot acc: 0.96 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9801 | F1 0.5261 | AUC 0.5067
+Ignore ma_f1 0.5027 | input_theta 0.9801 test_result F1 0.5008 | AUC 0.4739
+| epoch  39 | time: 87.15s
+-----------------------------------------------------------------------------------------
+| epoch 40 | step 3850 |  ms/b 2497.16 | train loss 0.00186188 | NA acc: 0.98 | not NA acc: 0.94  | tot acc: 0.96 
+| epoch 40 | step 3900 |  ms/b 697.09 | train loss 0.00184635 | NA acc: 0.98 | not NA acc: 0.95  | tot acc: 0.97 
+| epoch 41 | step 3950 |  ms/b 697.90 | train loss 0.00197196 | NA acc: 0.98 | not NA acc: 0.95  | tot acc: 0.97 
+| epoch 41 | step 4000 |  ms/b 701.60 | train loss 0.00175725 | NA acc: 0.98 | not NA acc: 0.95  | tot acc: 0.97 
+| epoch 42 | step 4050 |  ms/b 701.97 | train loss 0.00159650 | NA acc: 0.98 | not NA acc: 0.95  | tot acc: 0.97 
+| epoch 42 | step 4100 |  ms/b 703.39 | train loss 0.00159212 | NA acc: 0.98 | not NA acc: 0.95  | tot acc: 0.97 
+| epoch 43 | step 4150 |  ms/b 700.38 | train loss 0.00158083 | NA acc: 0.98 | not NA acc: 0.95  | tot acc: 0.97 
+| epoch 43 | step 4200 |  ms/b 701.09 | train loss 0.00149456 | NA acc: 0.98 | not NA acc: 0.95  | tot acc: 0.97 
+| epoch 44 | step 4250 |  ms/b 698.40 | train loss 0.00152700 | NA acc: 0.97 | not NA acc: 0.96  | tot acc: 0.97 
+| epoch 44 | step 4300 |  ms/b 704.92 | train loss 0.00151356 | NA acc: 0.98 | not NA acc: 0.95  | tot acc: 0.97 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9403 | F1 0.5363 | AUC 0.5162
+Ignore ma_f1 0.5142 | input_theta 0.9403 test_result F1 0.5141 | AUC 0.4842
+| epoch  44 | time: 92.06s
+-----------------------------------------------------------------------------------------
+| epoch 45 | step 4350 |  ms/b 2585.38 | train loss 0.00134859 | NA acc: 0.98 | not NA acc: 0.96  | tot acc: 0.97 
+| epoch 45 | step 4400 |  ms/b 693.66 | train loss 0.00147890 | NA acc: 0.98 | not NA acc: 0.96  | tot acc: 0.97 
+| epoch 46 | step 4450 |  ms/b 700.41 | train loss 0.00142353 | NA acc: 0.98 | not NA acc: 0.95  | tot acc: 0.97 
+| epoch 46 | step 4500 |  ms/b 701.68 | train loss 0.00136245 | NA acc: 0.98 | not NA acc: 0.95  | tot acc: 0.97 
+| epoch 47 | step 4550 |  ms/b 697.47 | train loss 0.00125041 | NA acc: 0.98 | not NA acc: 0.96  | tot acc: 0.97 
+| epoch 47 | step 4600 |  ms/b 703.61 | train loss 0.00130266 | NA acc: 0.98 | not NA acc: 0.96  | tot acc: 0.97 
+| epoch 48 | step 4650 |  ms/b 700.64 | train loss 0.00123212 | NA acc: 0.98 | not NA acc: 0.96  | tot acc: 0.97 
+| epoch 48 | step 4700 |  ms/b 709.76 | train loss 0.00124782 | NA acc: 0.98 | not NA acc: 0.96  | tot acc: 0.97 
+| epoch 49 | step 4750 |  ms/b 703.94 | train loss 0.00117872 | NA acc: 0.98 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 49 | step 4800 |  ms/b 696.54 | train loss 0.00120080 | NA acc: 0.98 | not NA acc: 0.96  | tot acc: 0.97 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9573 | F1 0.5428 | AUC 0.5306
+Ignore ma_f1 0.5213 | input_theta 0.9573 test_result F1 0.5204 | AUC 0.5010
+| epoch  49 | time: 92.00s
+-----------------------------------------------------------------------------------------
+| epoch 50 | step 4850 |  ms/b 2599.02 | train loss 0.00109148 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 51 | step 4900 |  ms/b 696.23 | train loss 0.00115188 | NA acc: 0.98 | not NA acc: 0.96  | tot acc: 0.97 
+| epoch 51 | step 4950 |  ms/b 697.69 | train loss 0.00116275 | NA acc: 0.98 | not NA acc: 0.96  | tot acc: 0.97 
+| epoch 52 | step 5000 |  ms/b 703.63 | train loss 0.00114022 | NA acc: 0.99 | not NA acc: 0.95  | tot acc: 0.97 
+| epoch 52 | step 5050 |  ms/b 700.78 | train loss 0.00105583 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 53 | step 5100 |  ms/b 701.02 | train loss 0.00104224 | NA acc: 0.99 | not NA acc: 0.95  | tot acc: 0.98 
+| epoch 53 | step 5150 |  ms/b 707.58 | train loss 0.00103267 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 54 | step 5200 |  ms/b 694.97 | train loss 0.00099445 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 54 | step 5250 |  ms/b 706.17 | train loss 0.00106502 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9194 | F1 0.5450 | AUC 0.5257
+Ignore ma_f1 0.5226 | input_theta 0.9194 test_result F1 0.5217 | AUC 0.4949
+| epoch  54 | time: 87.38s
+-----------------------------------------------------------------------------------------
+| epoch 55 | step 5300 |  ms/b 2505.43 | train loss 0.00096036 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 55 | step 5350 |  ms/b 694.45 | train loss 0.00094987 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 56 | step 5400 |  ms/b 703.07 | train loss 0.00100584 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 56 | step 5450 |  ms/b 701.75 | train loss 0.00087915 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 57 | step 5500 |  ms/b 698.60 | train loss 0.00083974 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 57 | step 5550 |  ms/b 705.17 | train loss 0.00096543 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 58 | step 5600 |  ms/b 698.01 | train loss 0.00093377 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 58 | step 5650 |  ms/b 706.36 | train loss 0.00089861 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 59 | step 5700 |  ms/b 695.60 | train loss 0.00087482 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 59 | step 5750 |  ms/b 704.91 | train loss 0.00086413 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9309 | F1 0.5420 | AUC 0.5261
+Ignore ma_f1 0.5196 | input_theta 0.9309 test_result F1 0.5192 | AUC 0.4951
+| epoch  59 | time: 92.07s
+-----------------------------------------------------------------------------------------
+| epoch 60 | step 5800 |  ms/b 2530.37 | train loss 0.00086378 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 60 | step 5850 |  ms/b 702.14 | train loss 0.00093513 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 61 | step 5900 |  ms/b 702.42 | train loss 0.00101030 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 61 | step 5950 |  ms/b 700.12 | train loss 0.00083339 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 62 | step 6000 |  ms/b 702.69 | train loss 0.00087514 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 63 | step 6050 |  ms/b 702.75 | train loss 0.00080685 | NA acc: 0.99 | not NA acc: 0.94  | tot acc: 0.98 
+| epoch 63 | step 6100 |  ms/b 700.38 | train loss 0.00078582 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 64 | step 6150 |  ms/b 702.16 | train loss 0.00080594 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 64 | step 6200 |  ms/b 706.28 | train loss 0.00085966 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9617 | F1 0.5433 | AUC 0.5225
+Ignore ma_f1 0.5208 | input_theta 0.9617 test_result F1 0.5208 | AUC 0.4926
+| epoch  64 | time: 87.38s
+-----------------------------------------------------------------------------------------
+| epoch 65 | step 6250 |  ms/b 2446.15 | train loss 0.00096206 | NA acc: 0.99 | not NA acc: 0.95  | tot acc: 0.97 
+| epoch 65 | step 6300 |  ms/b 697.14 | train loss 0.00070549 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 66 | step 6350 |  ms/b 701.84 | train loss 0.00078213 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 66 | step 6400 |  ms/b 708.10 | train loss 0.00075447 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 67 | step 6450 |  ms/b 706.79 | train loss 0.00072528 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 67 | step 6500 |  ms/b 712.81 | train loss 0.00074347 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 68 | step 6550 |  ms/b 701.53 | train loss 0.00071641 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 68 | step 6600 |  ms/b 703.84 | train loss 0.00072773 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 69 | step 6650 |  ms/b 704.76 | train loss 0.00069299 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 69 | step 6700 |  ms/b 702.03 | train loss 0.00072277 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9669 | F1 0.5514 | AUC 0.5367
+Ignore ma_f1 0.5298 | input_theta 0.9669 test_result F1 0.5293 | AUC 0.5055
+| epoch  69 | time: 88.65s
+-----------------------------------------------------------------------------------------
+| epoch 70 | step 6750 |  ms/b 2525.42 | train loss 0.00067212 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 70 | step 6800 |  ms/b 698.20 | train loss 0.00067964 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 71 | step 6850 |  ms/b 693.95 | train loss 0.00062505 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 71 | step 6900 |  ms/b 700.65 | train loss 0.00064105 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 72 | step 6950 |  ms/b 697.82 | train loss 0.00069158 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 72 | step 7000 |  ms/b 700.13 | train loss 0.00067807 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 73 | step 7050 |  ms/b 698.53 | train loss 0.00065537 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 73 | step 7100 |  ms/b 704.62 | train loss 0.00083354 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 74 | step 7150 |  ms/b 706.48 | train loss 0.00068734 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 74 | step 7200 |  ms/b 695.73 | train loss 0.00074651 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9174 | F1 0.5407 | AUC 0.5203
+Ignore ma_f1 0.5171 | input_theta 0.9174 test_result F1 0.5165 | AUC 0.4845
+| epoch  74 | time: 87.41s
+-----------------------------------------------------------------------------------------
+| epoch 75 | step 7250 |  ms/b 2444.84 | train loss 0.00067636 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 76 | step 7300 |  ms/b 695.38 | train loss 0.00060667 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 76 | step 7350 |  ms/b 703.70 | train loss 0.00062612 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 77 | step 7400 |  ms/b 701.98 | train loss 0.00057811 | NA acc: 0.99 | not NA acc: 0.97  | tot acc: 0.98 
+| epoch 77 | step 7450 |  ms/b 698.24 | train loss 0.00060208 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 78 | step 7500 |  ms/b 701.41 | train loss 0.00056301 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 78 | step 7550 |  ms/b 709.45 | train loss 0.00067717 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 79 | step 7600 |  ms/b 702.07 | train loss 0.00056781 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 79 | step 7650 |  ms/b 701.11 | train loss 0.00058693 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9457 | F1 0.5471 | AUC 0.5256
+Ignore ma_f1 0.5249 | input_theta 0.9457 test_result F1 0.5246 | AUC 0.4957
+| epoch  79 | time: 92.06s
+-----------------------------------------------------------------------------------------
+| epoch 80 | step 7700 |  ms/b 2540.54 | train loss 0.00056121 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 80 | step 7750 |  ms/b 691.71 | train loss 0.00052821 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 81 | step 7800 |  ms/b 699.26 | train loss 0.00057192 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 81 | step 7850 |  ms/b 702.12 | train loss 0.00046571 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 82 | step 7900 |  ms/b 704.73 | train loss 0.00048117 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 82 | step 7950 |  ms/b 702.10 | train loss 0.00048898 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 83 | step 8000 |  ms/b 703.51 | train loss 0.00047453 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 83 | step 8050 |  ms/b 711.15 | train loss 0.00049003 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 84 | step 8100 |  ms/b 703.88 | train loss 0.00046629 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 84 | step 8150 |  ms/b 705.88 | train loss 0.00050481 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8253 | F1 0.5534 | AUC 0.5418
+Ignore ma_f1 0.5302 | input_theta 0.8253 test_result F1 0.5301 | AUC 0.5122
+| epoch  84 | time: 88.89s
+-----------------------------------------------------------------------------------------
+| epoch 85 | step 8200 |  ms/b 2536.19 | train loss 0.00047470 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 85 | step 8250 |  ms/b 699.20 | train loss 0.00043750 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 86 | step 8300 |  ms/b 699.53 | train loss 0.00046317 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 86 | step 8350 |  ms/b 699.23 | train loss 0.00059792 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 87 | step 8400 |  ms/b 701.87 | train loss 0.00054500 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 88 | step 8450 |  ms/b 699.66 | train loss 0.00049910 | NA acc: 0.99 | not NA acc: 0.97  | tot acc: 0.98 
+| epoch 88 | step 8500 |  ms/b 701.49 | train loss 0.00046359 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 89 | step 8550 |  ms/b 698.18 | train loss 0.00053457 | NA acc: 0.99 | not NA acc: 0.95  | tot acc: 0.98 
+| epoch 89 | step 8600 |  ms/b 699.53 | train loss 0.00047150 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9419 | F1 0.5471 | AUC 0.5326
+Ignore ma_f1 0.5244 | input_theta 0.9419 test_result F1 0.5235 | AUC 0.4998
+| epoch  89 | time: 88.37s
+-----------------------------------------------------------------------------------------
+| epoch 90 | step 8650 |  ms/b 2461.57 | train loss 0.00051218 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 90 | step 8700 |  ms/b 697.73 | train loss 0.00049784 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 91 | step 8750 |  ms/b 696.51 | train loss 0.00045584 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 91 | step 8800 |  ms/b 700.67 | train loss 0.00043885 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 92 | step 8850 |  ms/b 703.89 | train loss 0.00048725 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 92 | step 8900 |  ms/b 703.28 | train loss 0.00045801 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 93 | step 8950 |  ms/b 699.27 | train loss 0.00066371 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 93 | step 9000 |  ms/b 699.52 | train loss 0.00049325 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 94 | step 9050 |  ms/b 709.00 | train loss 0.00045342 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 94 | step 9100 |  ms/b 703.32 | train loss 0.00042063 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9570 | F1 0.5507 | AUC 0.5326
+Ignore ma_f1 0.5286 | input_theta 0.9570 test_result F1 0.5273 | AUC 0.5016
+| epoch  94 | time: 92.09s
+-----------------------------------------------------------------------------------------
+| epoch 95 | step 9150 |  ms/b 2533.85 | train loss 0.00046636 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 95 | step 9200 |  ms/b 700.01 | train loss 0.00041089 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 96 | step 9250 |  ms/b 696.61 | train loss 0.00046018 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 96 | step 9300 |  ms/b 697.05 | train loss 0.00044380 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 97 | step 9350 |  ms/b 692.89 | train loss 0.00048057 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 97 | step 9400 |  ms/b 705.75 | train loss 0.00045037 | NA acc: 0.99 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 98 | step 9450 |  ms/b 704.64 | train loss 0.00041405 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 98 | step 9500 |  ms/b 702.14 | train loss 0.00034043 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 99 | step 9550 |  ms/b 698.86 | train loss 0.00038674 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 99 | step 9600 |  ms/b 696.77 | train loss 0.00036586 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8962 | F1 0.5556 | AUC 0.5370
+Ignore ma_f1 0.5312 | input_theta 0.8962 test_result F1 0.5308 | AUC 0.5006
+| epoch  99 | time: 91.98s
+-----------------------------------------------------------------------------------------
+| epoch 100 | step 9650 |  ms/b 2591.37 | train loss 0.00037231 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 101 | step 9700 |  ms/b 695.62 | train loss 0.00033869 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 101 | step 9750 |  ms/b 703.55 | train loss 0.00034502 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 102 | step 9800 |  ms/b 694.59 | train loss 0.00034812 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 102 | step 9850 |  ms/b 701.05 | train loss 0.00037380 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 103 | step 9900 |  ms/b 706.12 | train loss 0.00034689 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 103 | step 9950 |  ms/b 706.06 | train loss 0.00032330 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 104 | step 10000 |  ms/b 702.96 | train loss 0.00035200 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 104 | step 10050 |  ms/b 699.63 | train loss 0.00038079 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8874 | F1 0.5580 | AUC 0.5359
+Ignore ma_f1 0.5368 | input_theta 0.8874 test_result F1 0.5359 | AUC 0.5037
+| epoch 104 | time: 89.50s
+-----------------------------------------------------------------------------------------
+| epoch 105 | step 10100 |  ms/b 2548.77 | train loss 0.00035407 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 105 | step 10150 |  ms/b 694.56 | train loss 0.00030433 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 106 | step 10200 |  ms/b 698.91 | train loss 0.00030789 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 106 | step 10250 |  ms/b 704.50 | train loss 0.00035186 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 107 | step 10300 |  ms/b 707.41 | train loss 0.00029624 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 107 | step 10350 |  ms/b 707.06 | train loss 0.00030981 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 108 | step 10400 |  ms/b 707.81 | train loss 0.00031320 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 108 | step 10450 |  ms/b 702.73 | train loss 0.00026763 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 109 | step 10500 |  ms/b 701.76 | train loss 0.00024425 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 109 | step 10550 |  ms/b 708.07 | train loss 0.00033434 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8780 | F1 0.5551 | AUC 0.5317
+Ignore ma_f1 0.5324 | input_theta 0.8780 test_result F1 0.5313 | AUC 0.4969
+| epoch 109 | time: 91.68s
+-----------------------------------------------------------------------------------------
+| epoch 110 | step 10600 |  ms/b 2525.14 | train loss 0.00029888 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 110 | step 10650 |  ms/b 698.56 | train loss 0.00034019 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 111 | step 10700 |  ms/b 692.56 | train loss 0.00035912 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 111 | step 10750 |  ms/b 706.43 | train loss 0.00034431 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 112 | step 10800 |  ms/b 696.58 | train loss 0.00033211 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 113 | step 10850 |  ms/b 704.05 | train loss 0.00029587 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 113 | step 10900 |  ms/b 706.40 | train loss 0.00030036 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 114 | step 10950 |  ms/b 698.06 | train loss 0.00029912 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 114 | step 11000 |  ms/b 702.91 | train loss 0.00026121 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8532 | F1 0.5574 | AUC 0.5351
+Ignore ma_f1 0.5347 | input_theta 0.8532 test_result F1 0.5337 | AUC 0.5029
+| epoch 114 | time: 88.37s
+-----------------------------------------------------------------------------------------
+| epoch 115 | step 11050 |  ms/b 2461.30 | train loss 0.00026193 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 115 | step 11100 |  ms/b 691.44 | train loss 0.00030473 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 116 | step 11150 |  ms/b 700.43 | train loss 0.00023708 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 116 | step 11200 |  ms/b 702.83 | train loss 0.00027340 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 117 | step 11250 |  ms/b 699.79 | train loss 0.00023822 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 117 | step 11300 |  ms/b 706.22 | train loss 0.00034176 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 118 | step 11350 |  ms/b 696.92 | train loss 0.00026083 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 118 | step 11400 |  ms/b 708.24 | train loss 0.00025074 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 119 | step 11450 |  ms/b 702.51 | train loss 0.00026051 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 119 | step 11500 |  ms/b 703.63 | train loss 0.00026502 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.7517 | F1 0.5577 | AUC 0.5385
+Ignore ma_f1 0.5364 | input_theta 0.7517 test_result F1 0.5333 | AUC 0.5081
+| epoch 119 | time: 87.13s
+-----------------------------------------------------------------------------------------
+| epoch 120 | step 11550 |  ms/b 2437.99 | train loss 0.00027178 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 120 | step 11600 |  ms/b 697.58 | train loss 0.00028414 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 121 | step 11650 |  ms/b 696.81 | train loss 0.00025162 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 121 | step 11700 |  ms/b 705.49 | train loss 0.00023985 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 122 | step 11750 |  ms/b 700.42 | train loss 0.00026466 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 122 | step 11800 |  ms/b 705.24 | train loss 0.00026714 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 123 | step 11850 |  ms/b 701.26 | train loss 0.00026310 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 123 | step 11900 |  ms/b 701.99 | train loss 0.00030986 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 124 | step 11950 |  ms/b 700.40 | train loss 0.00026994 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 124 | step 12000 |  ms/b 694.04 | train loss 0.00023550 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8943 | F1 0.5619 | AUC 0.5383
+Ignore ma_f1 0.5388 | input_theta 0.8943 test_result F1 0.5380 | AUC 0.5035
+| epoch 124 | time: 92.03s
+-----------------------------------------------------------------------------------------
+| epoch 125 | step 12050 |  ms/b 2600.65 | train loss 0.00023032 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 126 | step 12100 |  ms/b 696.20 | train loss 0.00021907 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 126 | step 12150 |  ms/b 701.14 | train loss 0.00024007 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 127 | step 12200 |  ms/b 702.47 | train loss 0.00023026 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 127 | step 12250 |  ms/b 704.98 | train loss 0.00023795 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 128 | step 12300 |  ms/b 695.92 | train loss 0.00023911 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 128 | step 12350 |  ms/b 702.88 | train loss 0.00020933 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 129 | step 12400 |  ms/b 703.01 | train loss 0.00020593 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 129 | step 12450 |  ms/b 706.21 | train loss 0.00019412 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8958 | F1 0.5585 | AUC 0.5372
+Ignore ma_f1 0.5370 | input_theta 0.8958 test_result F1 0.5355 | AUC 0.5039
+| epoch 129 | time: 88.68s
+-----------------------------------------------------------------------------------------
+| epoch 130 | step 12500 |  ms/b 2465.24 | train loss 0.00022243 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 130 | step 12550 |  ms/b 696.31 | train loss 0.00025271 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 131 | step 12600 |  ms/b 698.03 | train loss 0.00027814 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 131 | step 12650 |  ms/b 697.78 | train loss 0.00022531 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 132 | step 12700 |  ms/b 706.04 | train loss 0.00021839 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 132 | step 12750 |  ms/b 700.24 | train loss 0.00021902 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 133 | step 12800 |  ms/b 700.91 | train loss 0.00020256 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 133 | step 12850 |  ms/b 701.45 | train loss 0.00020066 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 134 | step 12900 |  ms/b 701.18 | train loss 0.00020059 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 134 | step 12950 |  ms/b 709.07 | train loss 0.00019906 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8186 | F1 0.5622 | AUC 0.5407
+Ignore ma_f1 0.5390 | input_theta 0.8186 test_result F1 0.5384 | AUC 0.5076
+| epoch 134 | time: 88.66s
+-----------------------------------------------------------------------------------------
+| epoch 135 | step 13000 |  ms/b 2530.59 | train loss 0.00016925 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 135 | step 13050 |  ms/b 700.59 | train loss 0.00018660 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 136 | step 13100 |  ms/b 697.18 | train loss 0.00021450 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 136 | step 13150 |  ms/b 700.59 | train loss 0.00018253 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 137 | step 13200 |  ms/b 699.75 | train loss 0.00028892 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 138 | step 13250 |  ms/b 698.38 | train loss 0.00021073 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 138 | step 13300 |  ms/b 706.36 | train loss 0.00019575 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 139 | step 13350 |  ms/b 702.08 | train loss 0.00017596 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 139 | step 13400 |  ms/b 705.04 | train loss 0.00019458 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8534 | F1 0.5573 | AUC 0.5332
+Ignore ma_f1 0.5349 | input_theta 0.8534 test_result F1 0.5320 | AUC 0.5000
+| epoch 139 | time: 92.37s
+-----------------------------------------------------------------------------------------
+| epoch 140 | step 13450 |  ms/b 2546.38 | train loss 0.00024771 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 140 | step 13500 |  ms/b 690.72 | train loss 0.00021346 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 141 | step 13550 |  ms/b 696.48 | train loss 0.00022623 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 141 | step 13600 |  ms/b 706.56 | train loss 0.00021497 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 142 | step 13650 |  ms/b 710.87 | train loss 0.00023817 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 142 | step 13700 |  ms/b 704.03 | train loss 0.00019522 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 143 | step 13750 |  ms/b 697.98 | train loss 0.00014800 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 143 | step 13800 |  ms/b 702.51 | train loss 0.00017488 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 144 | step 13850 |  ms/b 701.63 | train loss 0.00015826 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 144 | step 13900 |  ms/b 707.82 | train loss 0.00019367 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9078 | F1 0.5590 | AUC 0.5364
+Ignore ma_f1 0.5364 | input_theta 0.9078 test_result F1 0.5352 | AUC 0.5054
+| epoch 144 | time: 91.95s
+-----------------------------------------------------------------------------------------
+| epoch 145 | step 13950 |  ms/b 2531.11 | train loss 0.00015069 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 145 | step 14000 |  ms/b 702.77 | train loss 0.00013821 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 146 | step 14050 |  ms/b 698.64 | train loss 0.00014522 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 146 | step 14100 |  ms/b 698.14 | train loss 0.00019076 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 147 | step 14150 |  ms/b 699.16 | train loss 0.00017787 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 147 | step 14200 |  ms/b 700.94 | train loss 0.00017958 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 148 | step 14250 |  ms/b 702.04 | train loss 0.00016747 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 148 | step 14300 |  ms/b 702.40 | train loss 0.00023525 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 149 | step 14350 |  ms/b 696.60 | train loss 0.00016372 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 149 | step 14400 |  ms/b 697.19 | train loss 0.00020261 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9054 | F1 0.5575 | AUC 0.5319
+Ignore ma_f1 0.5361 | input_theta 0.9054 test_result F1 0.5361 | AUC 0.5022
+| epoch 149 | time: 88.40s
+-----------------------------------------------------------------------------------------
+| epoch 150 | step 14450 |  ms/b 2466.17 | train loss 0.00020795 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 151 | step 14500 |  ms/b 696.65 | train loss 0.00015736 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 151 | step 14550 |  ms/b 707.33 | train loss 0.00015702 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 152 | step 14600 |  ms/b 696.37 | train loss 0.00015932 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 152 | step 14650 |  ms/b 702.35 | train loss 0.00013062 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 153 | step 14700 |  ms/b 706.48 | train loss 0.00014803 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 153 | step 14750 |  ms/b 705.73 | train loss 0.00011081 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 154 | step 14800 |  ms/b 701.45 | train loss 0.00019707 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 154 | step 14850 |  ms/b 701.95 | train loss 0.00017088 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8700 | F1 0.5636 | AUC 0.5361
+Ignore ma_f1 0.5402 | input_theta 0.8700 test_result F1 0.5400 | AUC 0.5050
+| epoch 154 | time: 87.29s
+-----------------------------------------------------------------------------------------
+| epoch 155 | step 14900 |  ms/b 2503.99 | train loss 0.00014786 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 155 | step 14950 |  ms/b 695.24 | train loss 0.00016300 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 156 | step 15000 |  ms/b 696.26 | train loss 0.00016365 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 156 | step 15050 |  ms/b 708.86 | train loss 0.00013846 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 157 | step 15100 |  ms/b 701.09 | train loss 0.00017338 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 157 | step 15150 |  ms/b 707.70 | train loss 0.00015732 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 158 | step 15200 |  ms/b 703.82 | train loss 0.00015060 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 158 | step 15250 |  ms/b 709.24 | train loss 0.00016853 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 159 | step 15300 |  ms/b 700.41 | train loss 0.00013820 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 159 | step 15350 |  ms/b 699.62 | train loss 0.00021961 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9158 | F1 0.5542 | AUC 0.5274
+Ignore ma_f1 0.5320 | input_theta 0.9158 test_result F1 0.5315 | AUC 0.4955
+| epoch 159 | time: 91.80s
+-----------------------------------------------------------------------------------------
+| epoch 160 | step 15400 |  ms/b 2526.49 | train loss 0.00015358 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 160 | step 15450 |  ms/b 701.76 | train loss 0.00015686 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 161 | step 15500 |  ms/b 706.17 | train loss 0.00014260 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 161 | step 15550 |  ms/b 706.27 | train loss 0.00013953 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 162 | step 15600 |  ms/b 701.07 | train loss 0.00023645 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 163 | step 15650 |  ms/b 703.24 | train loss 0.00014563 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 163 | step 15700 |  ms/b 708.52 | train loss 0.00013949 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 164 | step 15750 |  ms/b 703.06 | train loss 0.00014143 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 164 | step 15800 |  ms/b 700.58 | train loss 0.00013862 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8408 | F1 0.5582 | AUC 0.5319
+Ignore ma_f1 0.5351 | input_theta 0.8408 test_result F1 0.5350 | AUC 0.4996
+| epoch 164 | time: 87.49s
+-----------------------------------------------------------------------------------------
+| epoch 165 | step 15850 |  ms/b 2450.58 | train loss 0.00011911 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 165 | step 15900 |  ms/b 694.49 | train loss 0.00014927 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 166 | step 15950 |  ms/b 694.37 | train loss 0.00015027 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 166 | step 16000 |  ms/b 703.45 | train loss 0.00014744 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 167 | step 16050 |  ms/b 705.15 | train loss 0.00017132 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 167 | step 16100 |  ms/b 699.59 | train loss 0.00014504 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 168 | step 16150 |  ms/b 699.19 | train loss 0.00011586 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 168 | step 16200 |  ms/b 704.71 | train loss 0.00009801 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 169 | step 16250 |  ms/b 700.82 | train loss 0.00009372 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 169 | step 16300 |  ms/b 706.81 | train loss 0.00012670 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.7934 | F1 0.5613 | AUC 0.5333
+Ignore ma_f1 0.5383 | input_theta 0.7934 test_result F1 0.5379 | AUC 0.5021
+| epoch 169 | time: 87.10s
+-----------------------------------------------------------------------------------------
+| epoch 170 | step 16350 |  ms/b 2437.34 | train loss 0.00012936 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 170 | step 16400 |  ms/b 695.51 | train loss 0.00010097 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 171 | step 16450 |  ms/b 701.49 | train loss 0.00011035 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 171 | step 16500 |  ms/b 707.80 | train loss 0.00010363 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 172 | step 16550 |  ms/b 702.21 | train loss 0.00009895 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 172 | step 16600 |  ms/b 704.34 | train loss 0.00007790 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 173 | step 16650 |  ms/b 708.94 | train loss 0.00011542 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 173 | step 16700 |  ms/b 703.69 | train loss 0.00009178 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 174 | step 16750 |  ms/b 702.22 | train loss 0.00010759 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 174 | step 16800 |  ms/b 699.42 | train loss 0.00011673 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8710 | F1 0.5606 | AUC 0.5311
+Ignore ma_f1 0.5387 | input_theta 0.8710 test_result F1 0.5385 | AUC 0.5003
+| epoch 174 | time: 88.84s
+-----------------------------------------------------------------------------------------
+| epoch 175 | step 16850 |  ms/b 2479.93 | train loss 0.00015228 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 176 | step 16900 |  ms/b 698.99 | train loss 0.00013629 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 176 | step 16950 |  ms/b 704.95 | train loss 0.00017360 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 177 | step 17000 |  ms/b 704.27 | train loss 0.00012160 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 177 | step 17050 |  ms/b 701.34 | train loss 0.00014534 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 178 | step 17100 |  ms/b 703.69 | train loss 0.00009899 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 178 | step 17150 |  ms/b 699.68 | train loss 0.00010122 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 179 | step 17200 |  ms/b 702.40 | train loss 0.00007898 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 179 | step 17250 |  ms/b 706.62 | train loss 0.00009169 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8165 | F1 0.5648 | AUC 0.5414
+Ignore ma_f1 0.5430 | input_theta 0.8165 test_result F1 0.5415 | AUC 0.5114
+| epoch 179 | time: 91.26s
+-----------------------------------------------------------------------------------------
+| epoch 180 | step 17300 |  ms/b 2581.95 | train loss 0.00010045 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 180 | step 17350 |  ms/b 693.92 | train loss 0.00007868 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 181 | step 17400 |  ms/b 700.10 | train loss 0.00015627 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 181 | step 17450 |  ms/b 704.58 | train loss 0.00011826 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 182 | step 17500 |  ms/b 698.22 | train loss 0.00010911 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 182 | step 17550 |  ms/b 699.79 | train loss 0.00012104 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 183 | step 17600 |  ms/b 700.70 | train loss 0.00010496 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 183 | step 17650 |  ms/b 700.68 | train loss 0.00009325 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 184 | step 17700 |  ms/b 700.31 | train loss 0.00009974 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 184 | step 17750 |  ms/b 707.64 | train loss 0.00009599 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8230 | F1 0.5587 | AUC 0.5348
+Ignore ma_f1 0.5370 | input_theta 0.8230 test_result F1 0.5351 | AUC 0.5032
+| epoch 184 | time: 86.88s
+-----------------------------------------------------------------------------------------
+| epoch 185 | step 17800 |  ms/b 2423.22 | train loss 0.00007124 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 185 | step 17850 |  ms/b 702.69 | train loss 0.00010638 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 186 | step 17900 |  ms/b 702.02 | train loss 0.00008737 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 186 | step 17950 |  ms/b 703.95 | train loss 0.00008011 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 187 | step 18000 |  ms/b 694.93 | train loss 0.00006750 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 188 | step 18050 |  ms/b 702.35 | train loss 0.00008975 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 188 | step 18100 |  ms/b 707.99 | train loss 0.00010654 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 189 | step 18150 |  ms/b 704.85 | train loss 0.00009452 | NA acc: 1.00 | not NA acc: 0.95  | tot acc: 0.99 
+| epoch 189 | step 18200 |  ms/b 705.36 | train loss 0.00008951 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.7609 | F1 0.5573 | AUC 0.5284
+Ignore ma_f1 0.5344 | input_theta 0.7609 test_result F1 0.5334 | AUC 0.4956
+| epoch 189 | time: 87.37s
+-----------------------------------------------------------------------------------------
+| epoch 190 | step 18250 |  ms/b 2442.80 | train loss 0.00009153 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 190 | step 18300 |  ms/b 692.00 | train loss 0.00011344 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 191 | step 18350 |  ms/b 697.34 | train loss 0.00010847 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 191 | step 18400 |  ms/b 700.22 | train loss 0.00008134 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 192 | step 18450 |  ms/b 698.30 | train loss 0.00008233 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 192 | step 18500 |  ms/b 705.22 | train loss 0.00010345 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 193 | step 18550 |  ms/b 704.65 | train loss 0.00008803 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 193 | step 18600 |  ms/b 703.62 | train loss 0.00006928 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 194 | step 18650 |  ms/b 696.60 | train loss 0.00004674 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 194 | step 18700 |  ms/b 700.42 | train loss 0.00006557 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.7127 | F1 0.5627 | AUC 0.5344
+Ignore ma_f1 0.5410 | input_theta 0.7127 test_result F1 0.5397 | AUC 0.5030
+| epoch 194 | time: 87.28s
+-----------------------------------------------------------------------------------------
+| epoch 195 | step 18750 |  ms/b 2440.95 | train loss 0.00007951 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 195 | step 18800 |  ms/b 700.72 | train loss 0.00007191 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 196 | step 18850 |  ms/b 699.33 | train loss 0.00008721 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 196 | step 18900 |  ms/b 702.34 | train loss 0.00008043 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 197 | step 18950 |  ms/b 698.79 | train loss 0.00008342 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 197 | step 19000 |  ms/b 704.21 | train loss 0.00007085 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 198 | step 19050 |  ms/b 701.03 | train loss 0.00007127 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 198 | step 19100 |  ms/b 701.29 | train loss 0.00010303 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 199 | step 19150 |  ms/b 706.06 | train loss 0.00008158 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 199 | step 19200 |  ms/b 694.64 | train loss 0.00010359 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.7024 | F1 0.5591 | AUC 0.5278
+Ignore ma_f1 0.5380 | input_theta 0.7024 test_result F1 0.5362 | AUC 0.4951
+| epoch 199 | time: 87.00s
+-----------------------------------------------------------------------------------------
+| epoch 200 | step 19250 |  ms/b 2439.83 | train loss 0.00008023 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 201 | step 19300 |  ms/b 696.05 | train loss 0.00006767 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 201 | step 19350 |  ms/b 703.47 | train loss 0.00006564 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 202 | step 19400 |  ms/b 698.57 | train loss 0.00010351 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 202 | step 19450 |  ms/b 700.56 | train loss 0.00006820 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 203 | step 19500 |  ms/b 697.06 | train loss 0.00006804 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 203 | step 19550 |  ms/b 705.52 | train loss 0.00007813 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 204 | step 19600 |  ms/b 695.52 | train loss 0.00006384 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 204 | step 19650 |  ms/b 703.43 | train loss 0.00008202 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8793 | F1 0.5661 | AUC 0.5343
+Ignore ma_f1 0.5429 | input_theta 0.8793 test_result F1 0.5424 | AUC 0.4992
+| epoch 204 | time: 96.07s
+-----------------------------------------------------------------------------------------
+| epoch 205 | step 19700 |  ms/b 2680.79 | train loss 0.00009504 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 205 | step 19750 |  ms/b 698.64 | train loss 0.00006786 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 206 | step 19800 |  ms/b 706.01 | train loss 0.00006649 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 206 | step 19850 |  ms/b 700.96 | train loss 0.00006965 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 207 | step 19900 |  ms/b 696.51 | train loss 0.00008108 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 207 | step 19950 |  ms/b 705.36 | train loss 0.00008210 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 208 | step 20000 |  ms/b 705.01 | train loss 0.00007374 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 208 | step 20050 |  ms/b 703.11 | train loss 0.00006291 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 209 | step 20100 |  ms/b 703.73 | train loss 0.00007221 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 209 | step 20150 |  ms/b 702.16 | train loss 0.00007917 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8480 | F1 0.5609 | AUC 0.5295
+Ignore ma_f1 0.5391 | input_theta 0.8480 test_result F1 0.5384 | AUC 0.4975
+| epoch 209 | time: 91.10s
+-----------------------------------------------------------------------------------------
+| epoch 210 | step 20200 |  ms/b 2514.76 | train loss 0.00008950 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 210 | step 20250 |  ms/b 700.57 | train loss 0.00008072 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 211 | step 20300 |  ms/b 701.86 | train loss 0.00007038 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 211 | step 20350 |  ms/b 701.63 | train loss 0.00008537 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 212 | step 20400 |  ms/b 700.26 | train loss 0.00008330 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 213 | step 20450 |  ms/b 699.00 | train loss 0.00011086 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 213 | step 20500 |  ms/b 707.93 | train loss 0.00010494 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 214 | step 20550 |  ms/b 703.33 | train loss 0.00007088 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 214 | step 20600 |  ms/b 707.09 | train loss 0.00007667 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9140 | F1 0.5637 | AUC 0.5347
+Ignore ma_f1 0.5431 | input_theta 0.9140 test_result F1 0.5431 | AUC 0.5030
+| epoch 214 | time: 92.00s
+-----------------------------------------------------------------------------------------
+| epoch 215 | step 20650 |  ms/b 2547.74 | train loss 0.00006809 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 215 | step 20700 |  ms/b 693.07 | train loss 0.00004541 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 216 | step 20750 |  ms/b 706.97 | train loss 0.00006014 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 216 | step 20800 |  ms/b 701.15 | train loss 0.00006700 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 217 | step 20850 |  ms/b 703.00 | train loss 0.00005415 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 217 | step 20900 |  ms/b 703.32 | train loss 0.00006205 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 218 | step 20950 |  ms/b 704.18 | train loss 0.00006006 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 218 | step 21000 |  ms/b 707.10 | train loss 0.00005652 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 219 | step 21050 |  ms/b 701.58 | train loss 0.00006021 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 219 | step 21100 |  ms/b 706.47 | train loss 0.00006460 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9066 | F1 0.5654 | AUC 0.5345
+Ignore ma_f1 0.5433 | input_theta 0.9066 test_result F1 0.5431 | AUC 0.5016
+| epoch 219 | time: 92.26s
+-----------------------------------------------------------------------------------------
+| epoch 220 | step 21150 |  ms/b 2533.80 | train loss 0.00005572 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 220 | step 21200 |  ms/b 691.88 | train loss 0.00005892 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 221 | step 21250 |  ms/b 701.78 | train loss 0.00007254 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 221 | step 21300 |  ms/b 706.98 | train loss 0.00008622 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 222 | step 21350 |  ms/b 698.69 | train loss 0.00006668 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 222 | step 21400 |  ms/b 700.50 | train loss 0.00005688 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 223 | step 21450 |  ms/b 702.46 | train loss 0.00007361 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 223 | step 21500 |  ms/b 705.62 | train loss 0.00007392 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 224 | step 21550 |  ms/b 698.96 | train loss 0.00009337 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 224 | step 21600 |  ms/b 695.89 | train loss 0.00006641 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.4278 | F1 0.5631 | AUC 0.5332
+Ignore ma_f1 0.5396 | input_theta 0.4278 test_result F1 0.5383 | AUC 0.5011
+| epoch 224 | time: 90.13s
+-----------------------------------------------------------------------------------------
+| epoch 225 | step 21650 |  ms/b 2499.86 | train loss 0.00005084 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 226 | step 21700 |  ms/b 696.74 | train loss 0.00007567 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 226 | step 21750 |  ms/b 710.35 | train loss 0.00008906 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 227 | step 21800 |  ms/b 695.88 | train loss 0.00005828 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 227 | step 21850 |  ms/b 700.36 | train loss 0.00005629 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 228 | step 21900 |  ms/b 703.21 | train loss 0.00006027 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 228 | step 21950 |  ms/b 699.39 | train loss 0.00006128 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 229 | step 22000 |  ms/b 704.79 | train loss 0.00005461 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 229 | step 22050 |  ms/b 702.04 | train loss 0.00006780 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.7018 | F1 0.5646 | AUC 0.5320
+Ignore ma_f1 0.5427 | input_theta 0.7018 test_result F1 0.5426 | AUC 0.5005
+| epoch 229 | time: 92.07s
+-----------------------------------------------------------------------------------------
+| epoch 230 | step 22100 |  ms/b 2537.50 | train loss 0.00008237 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 230 | step 22150 |  ms/b 703.91 | train loss 0.00006827 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 231 | step 22200 |  ms/b 696.77 | train loss 0.00005630 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 231 | step 22250 |  ms/b 702.10 | train loss 0.00004659 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 232 | step 22300 |  ms/b 701.51 | train loss 0.00004262 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 232 | step 22350 |  ms/b 704.40 | train loss 0.00004395 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 233 | step 22400 |  ms/b 709.62 | train loss 0.00004848 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 233 | step 22450 |  ms/b 698.24 | train loss 0.00003112 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 234 | step 22500 |  ms/b 713.44 | train loss 0.00005193 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 234 | step 22550 |  ms/b 698.83 | train loss 0.00004346 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.7887 | F1 0.5676 | AUC 0.5380
+Ignore ma_f1 0.5446 | input_theta 0.7887 test_result F1 0.5439 | AUC 0.5052
+| epoch 234 | time: 87.21s
+-----------------------------------------------------------------------------------------
+| epoch 235 | step 22600 |  ms/b 2500.27 | train loss 0.00004886 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 235 | step 22650 |  ms/b 697.74 | train loss 0.00003830 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 236 | step 22700 |  ms/b 696.12 | train loss 0.00004454 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 236 | step 22750 |  ms/b 701.51 | train loss 0.00006018 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 237 | step 22800 |  ms/b 702.39 | train loss 0.00003446 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 238 | step 22850 |  ms/b 703.68 | train loss 0.00003860 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 238 | step 22900 |  ms/b 698.29 | train loss 0.00003928 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 239 | step 22950 |  ms/b 699.49 | train loss 0.00004596 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 239 | step 23000 |  ms/b 703.69 | train loss 0.00004445 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8468 | F1 0.5678 | AUC 0.5341
+Ignore ma_f1 0.5442 | input_theta 0.8468 test_result F1 0.5442 | AUC 0.4986
+| epoch 239 | time: 88.59s
+-----------------------------------------------------------------------------------------
+| epoch 240 | step 23050 |  ms/b 2526.12 | train loss 0.00006161 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 240 | step 23100 |  ms/b 691.59 | train loss 0.00007490 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 241 | step 23150 |  ms/b 698.62 | train loss 0.00005943 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 241 | step 23200 |  ms/b 704.41 | train loss 0.00003913 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 242 | step 23250 |  ms/b 704.67 | train loss 0.00003852 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 242 | step 23300 |  ms/b 702.83 | train loss 0.00004101 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 243 | step 23350 |  ms/b 698.09 | train loss 0.00002980 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 243 | step 23400 |  ms/b 699.72 | train loss 0.00002704 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 244 | step 23450 |  ms/b 696.53 | train loss 0.00002854 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 244 | step 23500 |  ms/b 705.26 | train loss 0.00003632 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8208 | F1 0.5657 | AUC 0.5281
+Ignore ma_f1 0.5435 | input_theta 0.8208 test_result F1 0.5435 | AUC 0.4935
+| epoch 244 | time: 89.23s
+-----------------------------------------------------------------------------------------
+| epoch 245 | step 23550 |  ms/b 2490.49 | train loss 0.00003549 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 245 | step 23600 |  ms/b 702.73 | train loss 0.00005347 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 246 | step 23650 |  ms/b 696.45 | train loss 0.00002627 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 246 | step 23700 |  ms/b 706.27 | train loss 0.00004687 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 247 | step 23750 |  ms/b 700.99 | train loss 0.00002787 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 247 | step 23800 |  ms/b 703.00 | train loss 0.00003893 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 248 | step 23850 |  ms/b 697.46 | train loss 0.00005286 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 248 | step 23900 |  ms/b 704.19 | train loss 0.00003454 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 249 | step 23950 |  ms/b 704.82 | train loss 0.00002853 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 249 | step 24000 |  ms/b 691.67 | train loss 0.00002875 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8139 | F1 0.5668 | AUC 0.5312
+Ignore ma_f1 0.5443 | input_theta 0.8139 test_result F1 0.5429 | AUC 0.4965
+| epoch 249 | time: 91.99s
+-----------------------------------------------------------------------------------------
+| epoch 250 | step 24050 |  ms/b 2536.64 | train loss 0.00003553 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 251 | step 24100 |  ms/b 698.76 | train loss 0.00002867 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 251 | step 24150 |  ms/b 701.27 | train loss 0.00003160 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 252 | step 24200 |  ms/b 698.32 | train loss 0.00003100 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 252 | step 24250 |  ms/b 700.01 | train loss 0.00003378 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 253 | step 24300 |  ms/b 701.86 | train loss 0.00003676 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 253 | step 24350 |  ms/b 703.75 | train loss 0.00002743 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 254 | step 24400 |  ms/b 701.46 | train loss 0.00003498 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 254 | step 24450 |  ms/b 706.99 | train loss 0.00004955 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.5363 | F1 0.5686 | AUC 0.5320
+Ignore ma_f1 0.5460 | input_theta 0.5363 test_result F1 0.5448 | AUC 0.4986
+| epoch 254 | time: 87.08s
+-----------------------------------------------------------------------------------------
+| epoch 255 | step 24500 |  ms/b 2492.19 | train loss 0.00004441 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 255 | step 24550 |  ms/b 696.73 | train loss 0.00004581 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 256 | step 24600 |  ms/b 692.29 | train loss 0.00010105 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 256 | step 24650 |  ms/b 704.20 | train loss 0.00007682 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 257 | step 24700 |  ms/b 705.05 | train loss 0.00008428 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 257 | step 24750 |  ms/b 702.99 | train loss 0.00005049 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 258 | step 24800 |  ms/b 703.65 | train loss 0.00003518 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 258 | step 24850 |  ms/b 701.31 | train loss 0.00003423 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 259 | step 24900 |  ms/b 697.83 | train loss 0.00007695 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 259 | step 24950 |  ms/b 707.84 | train loss 0.00004331 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.7148 | F1 0.5651 | AUC 0.5334
+Ignore ma_f1 0.5416 | input_theta 0.7148 test_result F1 0.5413 | AUC 0.5015
+| epoch 259 | time: 87.08s
+-----------------------------------------------------------------------------------------
+| epoch 260 | step 25000 |  ms/b 2436.20 | train loss 0.00004121 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 260 | step 25050 |  ms/b 697.68 | train loss 0.00003564 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 261 | step 25100 |  ms/b 699.32 | train loss 0.00002546 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 261 | step 25150 |  ms/b 702.91 | train loss 0.00002718 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 262 | step 25200 |  ms/b 701.52 | train loss 0.00001604 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 263 | step 25250 |  ms/b 700.69 | train loss 0.00002975 | NA acc: 1.00 | not NA acc: 0.95  | tot acc: 0.99 
+| epoch 263 | step 25300 |  ms/b 707.07 | train loss 0.00003243 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 264 | step 25350 |  ms/b 701.37 | train loss 0.00003499 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 264 | step 25400 |  ms/b 713.47 | train loss 0.00003550 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8369 | F1 0.5671 | AUC 0.5341
+Ignore ma_f1 0.5449 | input_theta 0.8369 test_result F1 0.5443 | AUC 0.5013
+| epoch 264 | time: 88.54s
+-----------------------------------------------------------------------------------------
+| epoch 265 | step 25450 |  ms/b 2469.93 | train loss 0.00002685 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 265 | step 25500 |  ms/b 703.22 | train loss 0.00001877 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 266 | step 25550 |  ms/b 726.61 | train loss 0.00003509 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 266 | step 25600 |  ms/b 719.78 | train loss 0.00003121 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 267 | step 25650 |  ms/b 725.60 | train loss 0.00002368 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 267 | step 25700 |  ms/b 709.26 | train loss 0.00003773 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 268 | step 25750 |  ms/b 698.97 | train loss 0.00003083 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 268 | step 25800 |  ms/b 708.56 | train loss 0.00004701 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 269 | step 25850 |  ms/b 696.99 | train loss 0.00005963 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 269 | step 25900 |  ms/b 705.17 | train loss 0.00004720 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8077 | F1 0.5623 | AUC 0.5298
+Ignore ma_f1 0.5407 | input_theta 0.8077 test_result F1 0.5399 | AUC 0.4978
+| epoch 269 | time: 91.86s
+-----------------------------------------------------------------------------------------
+| epoch 270 | step 25950 |  ms/b 2532.08 | train loss 0.00004592 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 270 | step 26000 |  ms/b 695.83 | train loss 0.00004309 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 271 | step 26050 |  ms/b 704.06 | train loss 0.00003733 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 271 | step 26100 |  ms/b 705.32 | train loss 0.00004348 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 272 | step 26150 |  ms/b 702.62 | train loss 0.00002571 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 272 | step 26200 |  ms/b 705.85 | train loss 0.00002608 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 273 | step 26250 |  ms/b 708.69 | train loss 0.00002588 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 273 | step 26300 |  ms/b 703.01 | train loss 0.00002988 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 274 | step 26350 |  ms/b 708.04 | train loss 0.00003680 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 274 | step 26400 |  ms/b 694.88 | train loss 0.00002279 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.7856 | F1 0.5661 | AUC 0.5359
+Ignore ma_f1 0.5432 | input_theta 0.7856 test_result F1 0.5432 | AUC 0.5032
+| epoch 274 | time: 87.34s
+-----------------------------------------------------------------------------------------
+| epoch 275 | step 26450 |  ms/b 2443.07 | train loss 0.00002724 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 276 | step 26500 |  ms/b 702.67 | train loss 0.00002751 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.98 
+| epoch 276 | step 26550 |  ms/b 702.63 | train loss 0.00002046 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 277 | step 26600 |  ms/b 698.24 | train loss 0.00001781 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 277 | step 26650 |  ms/b 700.97 | train loss 0.00002650 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 278 | step 26700 |  ms/b 704.88 | train loss 0.00001753 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 278 | step 26750 |  ms/b 704.95 | train loss 0.00002001 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 279 | step 26800 |  ms/b 705.52 | train loss 0.00002147 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 279 | step 26850 |  ms/b 708.16 | train loss 0.00002171 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8335 | F1 0.5644 | AUC 0.5347
+Ignore ma_f1 0.5426 | input_theta 0.8335 test_result F1 0.5425 | AUC 0.5021
+| epoch 279 | time: 91.87s
+-----------------------------------------------------------------------------------------
+| epoch 280 | step 26900 |  ms/b 2534.26 | train loss 0.00001623 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 280 | step 26950 |  ms/b 694.30 | train loss 0.00004740 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 281 | step 27000 |  ms/b 700.62 | train loss 0.00004204 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 281 | step 27050 |  ms/b 701.33 | train loss 0.00002987 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 282 | step 27100 |  ms/b 701.79 | train loss 0.00002823 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 282 | step 27150 |  ms/b 705.73 | train loss 0.00002763 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 283 | step 27200 |  ms/b 698.62 | train loss 0.00001820 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 283 | step 27250 |  ms/b 707.88 | train loss 0.00002218 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 284 | step 27300 |  ms/b 699.91 | train loss 0.00001415 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 284 | step 27350 |  ms/b 699.38 | train loss 0.00001446 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.7103 | F1 0.5686 | AUC 0.5336
+Ignore ma_f1 0.5464 | input_theta 0.7103 test_result F1 0.5449 | AUC 0.5001
+| epoch 284 | time: 91.90s
+-----------------------------------------------------------------------------------------
+| epoch 285 | step 27400 |  ms/b 2593.94 | train loss 0.00002225 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 285 | step 27450 |  ms/b 703.35 | train loss 0.00001841 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 286 | step 27500 |  ms/b 694.72 | train loss 0.00001931 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 286 | step 27550 |  ms/b 711.13 | train loss 0.00003306 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 287 | step 27600 |  ms/b 700.43 | train loss 0.00003520 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 288 | step 27650 |  ms/b 698.50 | train loss 0.00001736 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 288 | step 27700 |  ms/b 703.16 | train loss 0.00001921 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 289 | step 27750 |  ms/b 700.15 | train loss 0.00003123 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 289 | step 27800 |  ms/b 702.86 | train loss 0.00001878 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8535 | F1 0.5699 | AUC 0.5366
+Ignore ma_f1 0.5473 | input_theta 0.8535 test_result F1 0.5472 | AUC 0.5031
+| epoch 289 | time: 91.79s
+-----------------------------------------------------------------------------------------
+| epoch 290 | step 27850 |  ms/b 2595.66 | train loss 0.00001151 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 290 | step 27900 |  ms/b 691.74 | train loss 0.00002117 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 291 | step 27950 |  ms/b 697.14 | train loss 0.00001634 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 291 | step 28000 |  ms/b 701.69 | train loss 0.00001530 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 292 | step 28050 |  ms/b 699.65 | train loss 0.00001856 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 292 | step 28100 |  ms/b 709.92 | train loss 0.00001682 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 293 | step 28150 |  ms/b 702.24 | train loss 0.00001475 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 293 | step 28200 |  ms/b 700.50 | train loss 0.00001717 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 294 | step 28250 |  ms/b 702.60 | train loss 0.00001999 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 294 | step 28300 |  ms/b 704.70 | train loss 0.00002060 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8060 | F1 0.5702 | AUC 0.5354
+Ignore ma_f1 0.5470 | input_theta 0.8060 test_result F1 0.5462 | AUC 0.5021
+| epoch 294 | time: 88.59s
+-----------------------------------------------------------------------------------------
+| epoch 295 | step 28350 |  ms/b 2529.39 | train loss 0.00001891 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 295 | step 28400 |  ms/b 699.01 | train loss 0.00002001 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 296 | step 28450 |  ms/b 699.91 | train loss 0.00001646 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 296 | step 28500 |  ms/b 701.39 | train loss 0.00002179 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 297 | step 28550 |  ms/b 700.42 | train loss 0.00001603 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 297 | step 28600 |  ms/b 701.80 | train loss 0.00001577 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 298 | step 28650 |  ms/b 701.47 | train loss 0.00001012 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 298 | step 28700 |  ms/b 700.94 | train loss 0.00001528 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 299 | step 28750 |  ms/b 694.78 | train loss 0.00001068 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 299 | step 28800 |  ms/b 697.10 | train loss 0.00002557 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.9541 | F1 0.5649 | AUC 0.5330
+Ignore ma_f1 0.5440 | input_theta 0.9541 test_result F1 0.5437 | AUC 0.5006
+| epoch 299 | time: 86.88s
+-----------------------------------------------------------------------------------------
+| epoch 300 | step 28850 |  ms/b 2434.98 | train loss 0.00002264 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 301 | step 28900 |  ms/b 698.13 | train loss 0.00002321 | NA acc: 1.00 | not NA acc: 0.95  | tot acc: 0.98 
+| epoch 301 | step 28950 |  ms/b 704.74 | train loss 0.00002846 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 302 | step 29000 |  ms/b 698.88 | train loss 0.00001778 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 302 | step 29050 |  ms/b 704.49 | train loss 0.00001644 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 303 | step 29100 |  ms/b 701.59 | train loss 0.00001427 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 303 | step 29150 |  ms/b 695.18 | train loss 0.00001102 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 304 | step 29200 |  ms/b 703.28 | train loss 0.00000947 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 304 | step 29250 |  ms/b 703.32 | train loss 0.00001120 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.6856 | F1 0.5720 | AUC 0.5357
+Ignore ma_f1 0.5482 | input_theta 0.6856 test_result F1 0.5481 | AUC 0.5016
+| epoch 304 | time: 88.42s
+-----------------------------------------------------------------------------------------
+| epoch 305 | step 29300 |  ms/b 2523.87 | train loss 0.00001730 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 305 | step 29350 |  ms/b 695.91 | train loss 0.00001432 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 306 | step 29400 |  ms/b 704.64 | train loss 0.00001146 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 306 | step 29450 |  ms/b 705.38 | train loss 0.00001909 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 307 | step 29500 |  ms/b 696.53 | train loss 0.00001795 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 307 | step 29550 |  ms/b 701.96 | train loss 0.00002374 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 308 | step 29600 |  ms/b 706.92 | train loss 0.00001294 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 308 | step 29650 |  ms/b 700.87 | train loss 0.00001219 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 309 | step 29700 |  ms/b 701.66 | train loss 0.00001981 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 309 | step 29750 |  ms/b 702.02 | train loss 0.00001550 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.7596 | F1 0.5715 | AUC 0.5347
+Ignore ma_f1 0.5486 | input_theta 0.7596 test_result F1 0.5481 | AUC 0.5014
+| epoch 309 | time: 87.49s
+-----------------------------------------------------------------------------------------
+| epoch 310 | step 29800 |  ms/b 2442.43 | train loss 0.00001484 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 310 | step 29850 |  ms/b 699.87 | train loss 0.00001564 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 311 | step 29900 |  ms/b 703.60 | train loss 0.00001356 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 311 | step 29950 |  ms/b 704.75 | train loss 0.00001081 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 312 | step 30000 |  ms/b 701.73 | train loss 0.00001359 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 313 | step 30050 |  ms/b 696.66 | train loss 0.00001401 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 313 | step 30100 |  ms/b 702.36 | train loss 0.00001125 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 314 | step 30150 |  ms/b 700.20 | train loss 0.00000859 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 314 | step 30200 |  ms/b 699.30 | train loss 0.00002450 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.7589 | F1 0.5700 | AUC 0.5344
+Ignore ma_f1 0.5482 | input_theta 0.7589 test_result F1 0.5472 | AUC 0.5012
+| epoch 314 | time: 87.00s
+-----------------------------------------------------------------------------------------
+| epoch 315 | step 30250 |  ms/b 2432.51 | train loss 0.00001504 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 315 | step 30300 |  ms/b 695.04 | train loss 0.00001824 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 316 | step 30350 |  ms/b 699.39 | train loss 0.00000842 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 316 | step 30400 |  ms/b 702.91 | train loss 0.00001022 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 317 | step 30450 |  ms/b 697.84 | train loss 0.00001048 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 317 | step 30500 |  ms/b 706.25 | train loss 0.00001247 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 318 | step 30550 |  ms/b 704.10 | train loss 0.00000904 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 318 | step 30600 |  ms/b 706.39 | train loss 0.00001732 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 319 | step 30650 |  ms/b 700.78 | train loss 0.00001635 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 319 | step 30700 |  ms/b 697.59 | train loss 0.00000969 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8114 | F1 0.5722 | AUC 0.5364
+Ignore ma_f1 0.5501 | input_theta 0.8114 test_result F1 0.5500 | AUC 0.5028
+| epoch 319 | time: 87.26s
+-----------------------------------------------------------------------------------------
+| epoch 320 | step 30750 |  ms/b 2499.48 | train loss 0.00000801 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 320 | step 30800 |  ms/b 692.41 | train loss 0.00000810 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 321 | step 30850 |  ms/b 701.13 | train loss 0.00000787 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 321 | step 30900 |  ms/b 705.47 | train loss 0.00000659 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 322 | step 30950 |  ms/b 703.72 | train loss 0.00001031 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 322 | step 31000 |  ms/b 703.59 | train loss 0.00001665 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 323 | step 31050 |  ms/b 706.94 | train loss 0.00002690 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 323 | step 31100 |  ms/b 706.73 | train loss 0.00002260 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 324 | step 31150 |  ms/b 702.22 | train loss 0.00002312 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 324 | step 31200 |  ms/b 695.65 | train loss 0.00001596 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.7639 | F1 0.5697 | AUC 0.5335
+Ignore ma_f1 0.5466 | input_theta 0.7639 test_result F1 0.5465 | AUC 0.4994
+| epoch 324 | time: 91.87s
+-----------------------------------------------------------------------------------------
+| epoch 325 | step 31250 |  ms/b 2534.07 | train loss 0.00001836 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 326 | step 31300 |  ms/b 694.55 | train loss 0.00001002 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 326 | step 31350 |  ms/b 703.40 | train loss 0.00001698 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 327 | step 31400 |  ms/b 700.75 | train loss 0.00001157 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 327 | step 31450 |  ms/b 703.97 | train loss 0.00000881 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 328 | step 31500 |  ms/b 701.20 | train loss 0.00001148 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 328 | step 31550 |  ms/b 703.59 | train loss 0.00000721 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 329 | step 31600 |  ms/b 695.40 | train loss 0.00001101 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 329 | step 31650 |  ms/b 702.62 | train loss 0.00001172 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.8433 | F1 0.5713 | AUC 0.5336
+Ignore ma_f1 0.5489 | input_theta 0.8433 test_result F1 0.5481 | AUC 0.4992
+| epoch 329 | time: 90.21s
+-----------------------------------------------------------------------------------------
+| epoch 330 | step 31700 |  ms/b 2495.39 | train loss 0.00000542 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 330 | step 31750 |  ms/b 695.72 | train loss 0.00000870 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 331 | step 31800 |  ms/b 692.33 | train loss 0.00000807 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 331 | step 31850 |  ms/b 698.23 | train loss 0.00001303 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 332 | step 31900 |  ms/b 698.48 | train loss 0.00001176 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 332 | step 31950 |  ms/b 703.31 | train loss 0.00001529 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 333 | step 32000 |  ms/b 702.15 | train loss 0.00003195 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 333 | step 32050 |  ms/b 705.31 | train loss 0.00000925 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 334 | step 32100 |  ms/b 697.38 | train loss 0.00001219 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 334 | step 32150 |  ms/b 706.03 | train loss 0.00000758 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.6517 | F1 0.5715 | AUC 0.5367
+Ignore ma_f1 0.5493 | input_theta 0.6517 test_result F1 0.5488 | AUC 0.5045
+| epoch 334 | time: 88.55s
+-----------------------------------------------------------------------------------------
+| epoch 335 | step 32200 |  ms/b 2463.09 | train loss 0.00000879 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 335 | step 32250 |  ms/b 693.57 | train loss 0.00000958 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 336 | step 32300 |  ms/b 698.19 | train loss 0.00001092 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 336 | step 32350 |  ms/b 700.99 | train loss 0.00000796 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 337 | step 32400 |  ms/b 706.59 | train loss 0.00001443 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 338 | step 32450 |  ms/b 698.87 | train loss 0.00000596 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 338 | step 32500 |  ms/b 701.90 | train loss 0.00000813 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 339 | step 32550 |  ms/b 704.35 | train loss 0.00000765 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 339 | step 32600 |  ms/b 718.30 | train loss 0.00000494 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.7784 | F1 0.5733 | AUC 0.5352
+Ignore ma_f1 0.5513 | input_theta 0.7784 test_result F1 0.5512 | AUC 0.5017
+| epoch 339 | time: 88.58s
+-----------------------------------------------------------------------------------------
+| epoch 340 | step 32650 |  ms/b 2536.93 | train loss 0.00000592 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 340 | step 32700 |  ms/b 687.97 | train loss 0.00000557 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 341 | step 32750 |  ms/b 693.03 | train loss 0.00000603 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 341 | step 32800 |  ms/b 700.00 | train loss 0.00000929 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 342 | step 32850 |  ms/b 707.53 | train loss 0.00000622 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 342 | step 32900 |  ms/b 701.36 | train loss 0.00001150 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 343 | step 32950 |  ms/b 702.79 | train loss 0.00000907 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 343 | step 33000 |  ms/b 705.43 | train loss 0.00000638 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 344 | step 33050 |  ms/b 701.18 | train loss 0.00000760 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 344 | step 33100 |  ms/b 701.43 | train loss 0.00000888 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.6304 | F1 0.5708 | AUC 0.5328
+Ignore ma_f1 0.5488 | input_theta 0.6304 test_result F1 0.5478 | AUC 0.4993
+| epoch 344 | time: 87.18s
+-----------------------------------------------------------------------------------------
+| epoch 345 | step 33150 |  ms/b 2436.00 | train loss 0.00000517 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 345 | step 33200 |  ms/b 698.06 | train loss 0.00000621 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 346 | step 33250 |  ms/b 697.55 | train loss 0.00000739 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 346 | step 33300 |  ms/b 702.74 | train loss 0.00000923 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 347 | step 33350 |  ms/b 700.84 | train loss 0.00000851 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 347 | step 33400 |  ms/b 700.01 | train loss 0.00000844 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 348 | step 33450 |  ms/b 699.44 | train loss 0.00001157 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 348 | step 33500 |  ms/b 699.22 | train loss 0.00000659 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 349 | step 33550 |  ms/b 699.01 | train loss 0.00000889 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 349 | step 33600 |  ms/b 694.54 | train loss 0.00001015 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.7843 | F1 0.5724 | AUC 0.5339
+Ignore ma_f1 0.5501 | input_theta 0.7843 test_result F1 0.5494 | AUC 0.4999
+| epoch 349 | time: 87.41s
+-----------------------------------------------------------------------------------------
+| epoch 350 | step 33650 |  ms/b 2448.57 | train loss 0.00001768 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 351 | step 33700 |  ms/b 694.84 | train loss 0.00000444 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.97 
+| epoch 351 | step 33750 |  ms/b 702.61 | train loss 0.00000522 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 352 | step 33800 |  ms/b 705.22 | train loss 0.00000554 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 352 | step 33850 |  ms/b 706.63 | train loss 0.00000422 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 353 | step 33900 |  ms/b 694.88 | train loss 0.00000804 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 353 | step 33950 |  ms/b 700.90 | train loss 0.00000602 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 354 | step 34000 |  ms/b 699.60 | train loss 0.00000935 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 354 | step 34050 |  ms/b 702.90 | train loss 0.00000508 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.7975 | F1 0.5730 | AUC 0.5360
+Ignore ma_f1 0.5516 | input_theta 0.7975 test_result F1 0.5510 | AUC 0.5012
+| epoch 354 | time: 91.59s
+-----------------------------------------------------------------------------------------
+| epoch 355 | step 34100 |  ms/b 2531.33 | train loss 0.00000790 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 355 | step 34150 |  ms/b 696.16 | train loss 0.00000507 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 356 | step 34200 |  ms/b 700.88 | train loss 0.00000425 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 356 | step 34250 |  ms/b 700.48 | train loss 0.00000538 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 357 | step 34300 |  ms/b 697.02 | train loss 0.00000605 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 357 | step 34350 |  ms/b 699.11 | train loss 0.00000387 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 358 | step 34400 |  ms/b 705.02 | train loss 0.00000545 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 358 | step 34450 |  ms/b 707.62 | train loss 0.00000661 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 359 | step 34500 |  ms/b 703.41 | train loss 0.00000928 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 359 | step 34550 |  ms/b 697.07 | train loss 0.00000426 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.7567 | F1 0.5712 | AUC 0.5347
+Ignore ma_f1 0.5493 | input_theta 0.7567 test_result F1 0.5484 | AUC 0.5012
+| epoch 359 | time: 91.66s
+-----------------------------------------------------------------------------------------
+| epoch 360 | step 34600 |  ms/b 2520.12 | train loss 0.00000718 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 360 | step 34650 |  ms/b 697.62 | train loss 0.00001303 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 361 | step 34700 |  ms/b 700.34 | train loss 0.00001140 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 361 | step 34750 |  ms/b 707.27 | train loss 0.00000908 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 362 | step 34800 |  ms/b 701.94 | train loss 0.00000535 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 363 | step 34850 |  ms/b 706.72 | train loss 0.00000464 | NA acc: 1.00 | not NA acc: 0.98  | tot acc: 0.99 
+| epoch 363 | step 34900 |  ms/b 702.83 | train loss 0.00000378 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 364 | step 34950 |  ms/b 698.90 | train loss 0.00000437 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 364 | step 35000 |  ms/b 698.95 | train loss 0.00000455 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.5294 | F1 0.5725 | AUC 0.5340
+Ignore ma_f1 0.5500 | input_theta 0.5294 test_result F1 0.5490 | AUC 0.5004
+| epoch 364 | time: 87.02s
+-----------------------------------------------------------------------------------------
+| epoch 365 | step 35050 |  ms/b 2440.84 | train loss 0.00000316 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 365 | step 35100 |  ms/b 699.74 | train loss 0.00000256 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 366 | step 35150 |  ms/b 696.54 | train loss 0.00000666 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 366 | step 35200 |  ms/b 701.95 | train loss 0.00000438 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 367 | step 35250 |  ms/b 703.82 | train loss 0.00000572 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 367 | step 35300 |  ms/b 703.14 | train loss 0.00000757 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 368 | step 35350 |  ms/b 702.04 | train loss 0.00000918 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 368 | step 35400 |  ms/b 708.33 | train loss 0.00000429 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 369 | step 35450 |  ms/b 700.64 | train loss 0.00000334 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 369 | step 35500 |  ms/b 706.15 | train loss 0.00000996 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.4557 | F1 0.5735 | AUC 0.5352
+Ignore ma_f1 0.5502 | input_theta 0.4557 test_result F1 0.5497 | AUC 0.5021
+| epoch 369 | time: 92.01s
+-----------------------------------------------------------------------------------------
+| epoch 370 | step 35550 |  ms/b 2595.83 | train loss 0.00000425 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 370 | step 35600 |  ms/b 703.73 | train loss 0.00000580 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 371 | step 35650 |  ms/b 700.31 | train loss 0.00000621 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 371 | step 35700 |  ms/b 704.27 | train loss 0.00000320 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 372 | step 35750 |  ms/b 699.47 | train loss 0.00000640 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 372 | step 35800 |  ms/b 708.99 | train loss 0.00000483 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 373 | step 35850 |  ms/b 706.51 | train loss 0.00000314 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 373 | step 35900 |  ms/b 709.08 | train loss 0.00000389 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 374 | step 35950 |  ms/b 702.07 | train loss 0.00000449 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 374 | step 36000 |  ms/b 698.12 | train loss 0.00000409 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.4943 | F1 0.5748 | AUC 0.5355
+Ignore ma_f1 0.5526 | input_theta 0.4943 test_result F1 0.5518 | AUC 0.5023
+| epoch 374 | time: 91.08s
+-----------------------------------------------------------------------------------------
+| epoch 375 | step 36050 |  ms/b 2581.67 | train loss 0.00000254 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 376 | step 36100 |  ms/b 697.55 | train loss 0.00000322 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 376 | step 36150 |  ms/b 699.97 | train loss 0.00000301 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 377 | step 36200 |  ms/b 704.89 | train loss 0.00000805 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 377 | step 36250 |  ms/b 706.69 | train loss 0.00000726 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 378 | step 36300 |  ms/b 706.01 | train loss 0.00000528 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 378 | step 36350 |  ms/b 700.18 | train loss 0.00000347 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 379 | step 36400 |  ms/b 705.11 | train loss 0.00000239 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 379 | step 36450 |  ms/b 703.08 | train loss 0.00000341 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.6009 | F1 0.5750 | AUC 0.5376
+Ignore ma_f1 0.5521 | input_theta 0.6009 test_result F1 0.5518 | AUC 0.5040
+| epoch 379 | time: 91.62s
+-----------------------------------------------------------------------------------------
+| epoch 380 | step 36500 |  ms/b 2599.53 | train loss 0.00000381 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 380 | step 36550 |  ms/b 695.64 | train loss 0.00000493 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 381 | step 36600 |  ms/b 699.85 | train loss 0.00000298 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 381 | step 36650 |  ms/b 699.91 | train loss 0.00000560 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 382 | step 36700 |  ms/b 703.54 | train loss 0.00000377 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 382 | step 36750 |  ms/b 703.66 | train loss 0.00000278 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 383 | step 36800 |  ms/b 702.27 | train loss 0.00000712 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 383 | step 36850 |  ms/b 701.96 | train loss 0.00000242 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 384 | step 36900 |  ms/b 704.12 | train loss 0.00000216 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 384 | step 36950 |  ms/b 700.50 | train loss 0.00000320 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.5202 | F1 0.5742 | AUC 0.5360
+Ignore ma_f1 0.5516 | input_theta 0.5202 test_result F1 0.5503 | AUC 0.5024
+| epoch 384 | time: 87.73s
+-----------------------------------------------------------------------------------------
+| epoch 385 | step 37000 |  ms/b 2446.16 | train loss 0.00000266 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 385 | step 37050 |  ms/b 697.75 | train loss 0.00000206 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 386 | step 37100 |  ms/b 694.55 | train loss 0.00000294 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 386 | step 37150 |  ms/b 706.85 | train loss 0.00000302 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 387 | step 37200 |  ms/b 702.78 | train loss 0.00000679 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 388 | step 37250 |  ms/b 704.04 | train loss 0.00000218 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 388 | step 37300 |  ms/b 701.14 | train loss 0.00000294 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 389 | step 37350 |  ms/b 695.45 | train loss 0.00000167 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 389 | step 37400 |  ms/b 699.10 | train loss 0.00001100 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.4999 | F1 0.5740 | AUC 0.5357
+Ignore ma_f1 0.5511 | input_theta 0.4999 test_result F1 0.5510 | AUC 0.5025
+| epoch 389 | time: 86.97s
+-----------------------------------------------------------------------------------------
+| epoch 390 | step 37450 |  ms/b 2435.30 | train loss 0.00000688 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 390 | step 37500 |  ms/b 690.68 | train loss 0.00000367 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 391 | step 37550 |  ms/b 691.22 | train loss 0.00000322 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.98 
+| epoch 391 | step 37600 |  ms/b 701.06 | train loss 0.00000299 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 392 | step 37650 |  ms/b 700.31 | train loss 0.00000369 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 392 | step 37700 |  ms/b 705.56 | train loss 0.00000263 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 393 | step 37750 |  ms/b 704.14 | train loss 0.00000653 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 393 | step 37800 |  ms/b 705.66 | train loss 0.00000226 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 394 | step 37850 |  ms/b 703.55 | train loss 0.00000347 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 394 | step 37900 |  ms/b 704.30 | train loss 0.00000292 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.6443 | F1 0.5747 | AUC 0.5362
+Ignore ma_f1 0.5525 | input_theta 0.6443 test_result F1 0.5525 | AUC 0.5030
+| epoch 394 | time: 88.32s
+-----------------------------------------------------------------------------------------
+| epoch 395 | step 37950 |  ms/b 2465.58 | train loss 0.00000250 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 395 | step 38000 |  ms/b 697.29 | train loss 0.00000263 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 396 | step 38050 |  ms/b 699.79 | train loss 0.00000200 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 396 | step 38100 |  ms/b 700.25 | train loss 0.00000355 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 397 | step 38150 |  ms/b 700.14 | train loss 0.00000152 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 397 | step 38200 |  ms/b 705.55 | train loss 0.00000333 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 398 | step 38250 |  ms/b 698.05 | train loss 0.00000340 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 398 | step 38300 |  ms/b 705.11 | train loss 0.00000287 | NA acc: 1.00 | not NA acc: 0.97  | tot acc: 0.99 
+| epoch 399 | step 38350 |  ms/b 700.60 | train loss 0.00000344 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+| epoch 399 | step 38400 |  ms/b 694.26 | train loss 0.00000379 | NA acc: 1.00 | not NA acc: 0.96  | tot acc: 0.99 
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.6517 | F1 0.5746 | AUC 0.5365
+Ignore ma_f1 0.5525 | input_theta 0.6517 test_result F1 0.5522 | AUC 0.5032
+| epoch 399 | time: 87.12s
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.6517 | F1 0.5746 | AUC 0.5365
+Ignore ma_f1 0.5525 | input_theta 0.6517 test_result F1 0.5522 | AUC 0.5032
+| epoch 399 | time: 86.74s
+-----------------------------------------------------------------------------------------
+ALL  : Theta 0.6009 | F1 0.5750 | AUC 0.5376
+Ignore ma_f1 0.5521 | input_theta 0.6009 test_result F1 0.5518 | AUC 0.5040
