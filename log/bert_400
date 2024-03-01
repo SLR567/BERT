@@ -4025,3 +4025,16 @@ ALL  : Theta 0.5060 | F1 0.5713 | AUC 0.5278
 Ignore ma_f1 0.5490 | input_theta 0.5060 test_result F1 0.5481 | AUC 0.4928
 | epoch 399 | time: 85.52s
 -----------------------------------------------------------------------------------------
+
+
+
+Reading testing data...
+dev
+Finish reading
+total_recall 12323
+predicted as zero 384436
+total ins num 395726
+top1_acc 6653
+ALL  : Theta 0.4271 | F1 0.5715 | AUC 0.5280
+finish output
+Ignore ma_f1 0.5490 | input_theta 0.4271 test_result F1 0.5476 | AUC 0.4930
